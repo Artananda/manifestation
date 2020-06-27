@@ -19,7 +19,73 @@ Content {
             fullwidth: true
 
             Slide {
-                src: "/media/art/data/SourceCode/THX/assets/images/happypeople.png"
+                src: "/media/art/data/SourceCode/Manifestation/assets/images/sliderbg.jpg"
+                text: "&lt;div class=&quot;tp-caption lightgrey_divider skewfromrightshort customout&quot;
+	data-x=&quot;85&quot;
+	data-y=&quot;224&quot;
+	data-customout=&quot;x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;&quot;
+	data-speed=&quot;500&quot;
+	data-start=&quot;1200&quot;
+	data-easing=&quot;Power4.easeOut&quot;
+	data-endspeed=&quot;500&quot;
+	data-endeasing=&quot;Power4.easeIn&quot;
+	data-captionhidden=&quot;off&quot;
+	style=&quot;z-index: 2&quot;&gt;
+&lt;/div&gt;					
+&lt;div class=&quot;tp-caption customin customout&quot;
+	data-x=&quot;right&quot; data-hoffset=&quot;-80&quot;
+	data-y=&quot;bottom&quot; data-voffset=&quot;0&quot;
+	data-customin=&quot;x:50;y:100;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.5;scaleY:0.5;skewX:0;skewY:0;opacity:0;transformPerspective:0;transformOrigin:50% 50%;&quot;
+	data-customout=&quot;x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;&quot;
+	data-speed=&quot;1500&quot;
+	data-start=&quot;700&quot;
+	data-easing=&quot;Elastic.easeInOut&quot;
+	data-endspeed=&quot;500&quot;
+	data-endeasing=&quot;Power1.easeIn&quot;
+	style=&quot;z-index: 3&quot;&gt;&lt;img src=&quot;assets/images/CoverSmall.png&quot; alt=&quot;&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;tp-caption large_bold_grey skewfromrightshort customout&quot;		
+	data-x=&quot;80&quot;
+	data-y=&quot;66&quot;
+	data-customout=&quot;x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;&quot;
+	data-speed=&quot;500&quot;
+	data-start=&quot;800&quot;
+	data-easing=&quot;Back.easeOut&quot;
+	data-endspeed=&quot;500&quot;
+	data-endeasing=&quot;Power4.easeIn&quot;
+	data-captionhidden=&quot;off&quot;
+	style=&quot;z-index: 4&quot;&gt;Willkommen
+&lt;/div&gt;
+&lt;div class=&quot;tp-caption large_bold_grey skewfromleftshort customout&quot;
+	data-x=&quot;80&quot;
+	data-y=&quot;122&quot;
+	data-customout=&quot;x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;&quot;
+	data-speed=&quot;300&quot;
+	data-start=&quot;1100&quot;
+	data-easing=&quot;Back.easeOut&quot;
+	data-endspeed=&quot;500&quot;
+	data-endeasing=&quot;Power4.easeIn&quot;
+	data-captionhidden=&quot;off&quot;
+	style=&quot;z-index: 7&quot;&gt;bei Manifestation
+&lt;/div&gt;
+&lt;div class=&quot;tp-caption small_thin_grey customin customout&quot;
+	data-x=&quot;80&quot;
+	data-y=&quot;210&quot;
+	data-customin=&quot;x:0;y:100;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:3;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:0% 0%;&quot;
+	data-customout=&quot;x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;&quot;
+	data-speed=&quot;500&quot;
+	data-start=&quot;1300&quot;
+	data-easing=&quot;Power4.easeOut&quot;
+	data-endspeed=&quot;500&quot;
+	data-endeasing=&quot;Power4.easeIn&quot;
+	data-captionhidden=&quot;off&quot;
+	style=&quot;z-index: 8&quot;&gt;			
+	Mein neues Buch über Manifestationen&lt;/br&gt;
+	wird bald verfügbar sein.&lt;/br&gt;
+	Trage dich in den Newsletter ein&lt;/br&gt;
+    und ich werde dich informieren, sobald es da ist.  							
+								
+&lt;/div&gt;"
             }
         }
     }
