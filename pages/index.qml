@@ -149,7 +149,7 @@ Content {
                 Text {
                     text: "&lt;!-- CALLOUT --&gt;
 &lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
-	&lt;h3&gt;Ja, ich möchte mich für den &lt;strong&gt;Newsletter&lt;/strong&gt; eintragen.&lt;a href=&quot;http://eepurl.com/g8s_kL&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Eintragen&lt;/a&gt;&lt;/h3&gt;
+	&lt;h3&gt;Ja, ich möchte mich für den &lt;strong&gt;Newsletter&lt;/strong&gt; eintragen.&lt;a href=&quot;http://eepurl.com/g8JnNf&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Eintragen&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;!-- /CALLOUT --&gt;"
                     adminlabel: "Callout"
