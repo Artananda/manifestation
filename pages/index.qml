@@ -38,7 +38,10 @@ Content {
 &lt;/h1&gt;
 &lt;p class=&quot;lead&quot;&gt;Hier bekommst du mein Buch über die Manifestation&lt;/p&gt;
 &lt;p&gt;
-	Vor ein paar Jahren habe ich angefangen, Bücher zu schreiben. Und dieses Buch ist eines davon.
+	Vor ein paar Jahren habe ich angefangen, Bücher zu schreiben, um meinen Mitmenschen zu helfen, die spirituelle
+    Welt zu entdecken und zu gedeihen. &lt;/br&gt;&lt;/br&gt;
+
+	Dieses Buch ist eines davon.
 &lt;/p&gt;
 
 "
@@ -81,9 +84,30 @@ Content {
                 span: 8
 
                 Text {
-                    text: "&lt;h2&gt;Manifestation - Ich mach mir die Welt, widde widde wie sie mir gefällt&lt;/h2&gt;
+                    text: "&lt;h2&gt;Manifestation&lt;/h2&gt;
+&lt;p class=&quot;lead&quot;&gt;
+	Ich mach mir die Welt, widde widde wie sie mir gefällt
+&lt;/p&gt;
 &lt;p&gt;
-	Todo
+	Das obige Zitat, ist aus dem Film Pippi Langstrumpf. Ein alter Kinderfilm nach dem Buch von Astrid Lindgren. 
+	Pippi war die Tochter eines Seeräubers und lebte zusammen mit ihrem Äffchen und einem Pferd in der Villa
+	Kunterbunt. Sie hat sich erfolgreich geweigert in die Schule zu gehen und verfügte, eventuell gerade deshalb,
+	über aussergewöhnliche Kräfte.  
+&lt;/p&gt;
+&lt;p&gt;
+	Auch du verfügst über diese außergewöhnlichen Kräfte, du musst nur deine Programmierung loswerden und bist dann
+	in der Lage fantastische Dinge, genau wie Pippi, zu vollbringen.&lt;/br&gt;
+	Eine dieser Gaben nennt sich Manifestieren. Die Fähigkeit zu manifestieren erlaubt es uns Dinge und Situationen
+	in unser Leben zu rufen, analog zu dem Gesetz der Anziehung, aus dem Film &lt;strong&gt;The Secret&lt;/strong&gt;.&lt;/br&gt;&lt;/br&gt;
+
+	Wenn wir es wierdererlernt haben zu manifestieren, können wir die Welt so gestalten, wie wir es möchten.
+&lt;/p&gt;
+&lt;p&gt;
+	Der Autor hat selbst schon einige Dinge in sein Leben gerufen und zeigt in diesem Buch an Hand realer 
+	Manifestationen, wie einfach, bzw. auch wie schwierig es sein kann, Dinge zu manifestieren.&lt;/br&gt;&lt;/br&gt;
+	
+	Hier ein paar Methoden und Techniken, die in dem vorliegenden Buch erklärt werden: 
+	Willenskraft, Affirmationen, Psych-K, Regnose
 &lt;/p&gt;"
                     adminlabel: "Manifestation"
                 }
@@ -101,7 +125,8 @@ Content {
                 Text {
                     text: "&lt;!-- CALLOUT --&gt;
 &lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
-&lt;h3&gt;Das Buch ist ab sofort auf &lt;strong&gt;Amazon&lt;/strong&gt; erhältlich.&lt;a href=&quot;&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Zum Buch&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;Das Buch ist bald auf &lt;strong&gt;Amazon&lt;/strong&gt; erhältlich.&lt;/h3&gt;
+&lt;!--a href=&quot;&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Zum Buch&lt;/a&gt;&lt;/h3--&gt;
 &lt;/div&gt;
 &lt;!-- /CALLOUT --&gt;"
                     adminlabel: "CALLOUT"
@@ -125,9 +150,9 @@ Content {
 	&lt;div class=&quot;row animation_fade_in&quot;&gt;
 		&lt;div class=&quot;col-md-6&quot;&gt;
 			&lt;div class=&quot;white-row&quot;&gt;
-				&lt;h3&gt;Ich möchte &lt;strong&gt;INFORMIERT&lt;/strong&gt; werden&lt;/h3&gt;
+				&lt;h3&gt;Möchtest du &lt;strong&gt;INFORMIERT&lt;/strong&gt; werden,&lt;/h3&gt;
 				&lt;p class=&quot;lead&quot;&gt;
-					Möchtest Du informiert werden, wenn eines der Bücher kostenlos verfügbar wird oder wenn es Updates gibt?
+					wenn das Buch verfügbar wird oder wenn es Updates gibt?
 				&lt;/p&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
