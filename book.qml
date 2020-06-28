@@ -10,6 +10,10 @@ Ebook {
         name: "Einleitung"
     }
     Part {
+        src: "first.md"
+        name: "First"
+    }
+    Part {
         src: "passiveseinkommen.md"
         name: "Passives Einkommen"
     }
