@@ -12,7 +12,7 @@ Dein Geist und Körper lassen los. Die äußeren Geräusche, die du während die
 
 Atme einfach weiter tief und langsam. Stelle dir jetzt in diesem Moment einen Strahl strahlenden Lichts vor, der in deinen Kopf eindringt und dieses Energiezentrum in deinem Kopf öffnet.
 
-Ein glühend, heller Strahl erfüllt deinen Geist mit positiver Energie. Kannst du dieses helle Licht positiver Energie, das durch deine Wirbelsäule fließt sehen, fühlen und spüren? Öffne alle deine Energiezentren in deiner Wirbelsäule. Einfach sehen und fühlen. Der Strahl bereitet dir keine Schmerzen. Und jetzt vergrößerer wir den Strahl. Erhöhen den Fluss positiver Energie. Stelle dir nun vor, dass dieses helle Licht positiver Energie aus der Mitte deiner Brust, aus deinem Herzzentrum scheint. Erweitere es einfach, strahle es aus und senden diese Energie an alles und jeden.
+Ein glühend, heller Strahl erfüllt deinen Geist mit positiver Energie. Kannst du dieses helle Licht positiver Energie, das durch deine Wirbelsäule fließt sehen, fühlen und spüren? Öffne alle deine Energiezentren in deiner Wirbelsäule. Einfach sehen und fühlen. Der Strahl bereitet dir keine Schmerzen. Und jetzt vergrößern wir den Strahl. Erhöhen den Fluss positiver Energie. Stelle dir nun vor, dass dieses helle Licht positiver Energie aus der Mitte deiner Brust, aus deinem Herzzentrum scheint. Erweitere es einfach, strahle es aus und senden diese Energie an alles und jeden.
 
 Erinnere dich das irgendwelche Außengeräusche, während der Sitzung, dich nur daran erinnern, im Moment zu bleiben. Du bringst in diesem Moment dein volles Potenzial zur Geltung und wirst zu allem, was du kannst und willst. Deine Kraft kommt aus deinem Glauben. Wenn du es glaubst, erschaffst du es. Erkenne das jetzt in diesem Moment. Nicht in der Zukunft, sondern hier und jetzt. Was immer du möchtest, wird mit der positiven Energie, die du aussendest erschaffen und auf schnellste und liebevollste Weise zu dir gebracht.
 
@@ -29,7 +29,7 @@ Keine Variation.
 
 Das Gesetz funktioniert jedes Mal perfekt. Was auch immer du sendest, findet die Schwingungsübereinstimmung und wird von dir angezogen. Nun, gerade jetzt. Du musst nicht darauf warten. Es ist schon da. Und das passiert gerade. Wir können nicht genug betonen, wie wichtig dies in diesem Moment ist. Es ist schon so. Ich muss nicht danach suchen. Du musst nicht hoffen oder wünschen, dass etwas passieren wird. Es ist schon da. Ich muss es nur fühlen, spüren und wissen.
 
-Noch einmal, irgendwelche äußeren Geräusche, die du hörst, helfen Idir, in diesem Moment zu bleiben. Für die nächsten Momente. Genieße einfach die absolute Verwirklichung deiner Absicht. Ja, fahre fort. Genieße das jetzt.
+Noch einmal, irgendwelche äußeren Geräusche, die du hörst, helfen dir, in diesem Moment zu bleiben. Für die nächsten Momente. Genieße einfach die absolute Verwirklichung deiner Absicht. Ja, fahre fort. Genieße das jetzt.
 
 Das fühlt sich wunderbar an, nicht wahr? Ist es nicht toll zu wissen, dass du haben kannst, was du willst? Nun möchte ich, dass du dein Absicht freigibst. Lass es direkt aus deinem Kopf gehen, lass es einfach los. Das stimmt. Perfekt. Gönne dir jetzt etwas Freiheit und öffnen deinen Geist für die Möglichkeit, eine Botschaft von deinem höheren Selbst zu erhalten. Ermögliche einen offenem Raum für dein höheres Selbst, dir eine Botschaft zu bringen. Jetzt sofort. Was auch immer es ist.
 
@@ -41,7 +41,7 @@ Ich werde das wiederholen. Was muss ich als nächstes tun oder welche Maßnahmen
 
 Stelle dir weiterhin diese Frage: Was muss ich als Nächstes tun oder welche Maßnahmen muss ich ergreifen, um meinen Wunsch zu wecken?
 
-Unabhängig davon, ob du die Antwort sofort oder zu einem anderen Zeitpunkt erhälst, musst du sie auf jeden Fall befolgen. Vertraue und wisse, dass du geführt wirst. Die Anleitung wird auf viele Arten zu dir kommen. Aber du musst ihr folgen und Maßnahmen ergreifen. Selbst der kleinste Schritt kann der Wendepunkt sein. Lasse das Universum, das alles miteinander verbindet, sich um den Prozess oder die Details kümmern. Wenn du dich auf das Endergebnis konzentrierst, wirdst du zu den spezifischen Personen, Umständen oder Bedingungen geführt, die deinen Wunsch hervorbringen können.
+Unabhängig davon, ob du die Antwort sofort oder zu einem anderen Zeitpunkt erhältst, musst du sie auf jeden Fall befolgen. Vertraue und wisse, dass du geführt wirst. Die Anleitung wird auf viele Arten zu dir kommen. Aber du musst ihr folgen und Maßnahmen ergreifen. Selbst der kleinste Schritt kann der Wendepunkt sein. Lasse das Universum, das alles miteinander verbindet, sich um den Prozess oder die Details kümmern. Wenn du dich auf das Endergebnis konzentrierst, wirst du zu den spezifischen Personen, Umständen oder Bedingungen geführt, die deinen Wunsch hervorbringen können.
 
 Das Universum kennt die Essenz dessen, wonach du greifst, und gibt dir, was du wirklich in diesem Moment willst.
 

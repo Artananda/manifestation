@@ -3,19 +3,19 @@ Wenn du wirklich **frei** sein möchtest, dann rate ich dir, ein passives Einkom
 
 Vor zwei Jahren saß ich in Berlin mit einer Freundin zusammen und wir versuchten ein passives Einkommen für uns zu manifestieren.  
 
-Zu dieser Zeit haben wir beide noch von Harz4 leben müssen und fühlten uns abhängig. Immerhin durften wir ,um den Anspruch aufrecht zu erhalten, Berlin nicht verlassen und mußten jede Einladung des Jobcenters nachkommen und dort vorsprechen.  
+Zu dieser Zeit haben wir beide noch von Harz4 leben müssen und fühlten uns abhängig. Immerhin durften wir ,um den Anspruch aufrecht zu erhalten, Berlin nicht verlassen und mussten jede Einladung des Jobcenters nachkommen und dort vorsprechen.  
 
-Die anderen armen Menschen dort draußen müssen sogar jeden noch so üblen Job annehmen, da ihnen ansonsten Sanktionen in Höhe von bis zu 100% drohten. Na klar ist, bzw. war das gegen die Menschenrechte, denn Zwangsarbeit ist nach wie vor verboten. Aber das interessiert doch die Mitarbeiter vom Jobcenter nicht. Wenn die die Harz4-Empfänger nicht gängeln, dann sind die ihren Job doch auch los.  
+Die anderen armen Menschen dort draußen müssen sogar jeden noch so üblen Job annehmen, da ihnen ansonsten Sanktionen in Höhe von bis zu 100% drohten. Na klar ist, bzw.. war das gegen die Menschenrechte, denn Zwangsarbeit ist nach wie vor verboten. Aber das interessiert doch die Mitarbeiter vom Jobcenter nicht. Wenn die die Harz4-Empfänger nicht gängeln, dann sind die ihren Job doch auch los.  
 
 Wir wollten also beide unsere Unabhängigkeit.  
-Nein, arbeiten wollte ich zu diesem Zeitpunkt auf gar keinen Fall. Ich hatte noch 4 Jahre zuvor nach meinem zweiten Burnout ein Nahtoderlebnis, bedingt durch den Umstand, das mich mein Job ausgebrannt hat. Soetwas wollte ich auf jeden Fall vermeiden.  
+Nein, arbeiten wollte ich zu diesem Zeitpunkt auf gar keinen Fall. Ich hatte noch 4 Jahre zuvor nach meinem zweiten Burnout ein Nahtoderlebnis, bedingt durch den Umstand, das mich mein Job ausgebrannt hat. So etwas wollte ich auf jeden Fall vermeiden.  
 
-Das passive Einkommen stellte sich natürlich nicht sofort ein. Wir hatten ja nicht einmal eine Idee, woher denn das Einkommen kommen könnte. Ja, ich bin Softwareentlickler und könnte Software schreiben und tausendfach Lizenzen verkaufen. Meine Freundin hatte die Idee, Kinderbücher zu schreiben. Ein Buch hatte ich bis dahin auch bereits geschrieben und hatte es mindestens 5 mal verkauft ;-)  
+Das passive Einkommen stellte sich natürlich nicht sofort ein. Wir hatten ja nicht einmal eine Idee, woher denn das Einkommen kommen könnte. Ja, ich bin Softwareentwickler und könnte Software schreiben und tausendfach Lizenzen verkaufen. Meine Freundin hatte die Idee, Kinderbücher zu schreiben. Ein Buch hatte ich bis dahin auch bereits geschrieben und hatte es mindestens 5 mal verkauft ;-)  
 Es heißt, [Die Kunst zu leben und zu lieben](https://kdp.amazon.com/amazon-dp-action/de/dualbookshelf.marketplacelink/B079QC1NCY)
 Das mit der Software hat auch nicht so gut geklappt, weil ich Open Source Software schreibe und die halt kostenlos ist.  
 Woher sollte das passive Einkommen nun kommen?  
 
-Wenn du glaubst, du setzt dich einfach in den Schreidersitz, schließt die Augen, murmelst ein paar Mantren und schwupps öffnest du die Augen und vor dir liegt ein Diamant. Träum weiter...  
+Wenn du glaubst, du setzt dich einfach in den Schneidersitz, schließt die Augen, murmelst ein paar Mantren und schwupps öffnest du die Augen und vor dir liegt ein Diamant. Träum weiter...  
 
 So schnell geht das alles nicht.
 
@@ -23,9 +23,8 @@ Aber, es geht...
 Es war weder mein erstes Buch, das Geld einbrachte, noch war es mein zweites Buch, nein, es war mein drittes Buch [Python GUI - Create Cross Platform GUI Applications using Python, Qt and PyQt5](https://kdp.amazon.com/amazon-dp-action/de/dualbookshelf.marketplacelink/B088FWNFQP). In diesem Buch geht es um Programmierung. Um Benutzerinface-Programmierung. Ein Thema, das ich noch vor meinem Burnout in der Schweiz studiert hatte. Dieses Buch war schon kurz nach der Veröffentlichung auf **Platz #1 der Sparte Cross Platform Development**, nur weil ich einen kleinen aber feinen Marketing-Trick angewandt habe. Ich schreibe in meinem Buch [Step Out - A guideline how you can step out of this system and live a fulfilling life in abundance without the need to work at all](https://kdp.amazon.com/amazon-dp-action/de/dualbookshelf.marketplacelink/B086C8Z9MY) über dieses Thema.
 Du musst einfach nur beharrlich sein und wenn du eine gute Idee hast, es auch durchziehen.  
 
-Als ich [Camp Eden - How we have re-created our paradies](https://kdp.amazon.com/amazon-dp-action/de/dualbookshelf.marketplacelink/B086C8MTP3) letztes Jahr auf Englisch übersetzt hatte, zog es mich nach Portugal, um es dann auch zu leben. Ich war vom Jobcenter sanktioniert und hatte nur so um die 300,- € in der Tasche. Ich wusste aber, das ich es irgendwie schaffen kann. Normalerweise komme ich mit 300,- € keinen Monat aus und schon gar kann ich mit meinem Wohnmobil 3.500 Kilometer mit 300 € fahren. Ich würde nach Portugal ca 350,- € für Diesel brauchen. Aber egal, ich fuhr los.  
+Als ich [Camp Eden - How we have re-created our paradies](https://kdp.amazon.com/amazon-dp-action/de/dualbookshelf.marketplacelink/B086C8MTP3) letztes Jahr auf Englisch übersetzt hatte, zog es mich nach Portugal, um es dann auch zu leben. Ich war vom Jobcenter sanktioniert und hatte nur so um die 300,- € in der Tasche. Ich wusste aber, das ich es irgendwie schaffen kann. Normalerweise komme ich mit 300,- € keinen Monat aus und schon gar kann ich mit meinem Wohnmobil 3.500 Kilometer mit 300 € fahren. Ich würde nach Portugal ca. 350,- € für Diesel brauchen. Aber egal, ich fuhr los.  
 
-Mein Weg führte mich zuerst nach München, dort besuchte ich eine Bekannte, die ich in Berlin während einer Demo mit XR kennengelernt hatte. Ich bekam ein paar Mahlzeiten bei ihr zu essen. 
 Vielen lieben Dank noch mal <3
 
 Dann wurde ich von einer ungarischen Freundin nach Wien eingeladen, sie ist eine der weniger, die mein Buch [Die Kunst zu leben und zu lieben](https://kdp.amazon.com/amazon-dp-action/de/dualbookshelf.marketplacelink/B079QC1NCY) gelesen hatte und wollte mich kennenlernen und zahlte mir den Flixbus von München nach Wien. Auch wenn ich nur 5 Kopien verkauft habe, das Geld bzw. der Lohn für dieses Buch kommt auf andere Wege rein. Sie fragte mich vorher schon mal, nach meiner Bankverbindung und überwies mir ganze 100,- €. Aus Dankbarkeit oder um mir zu helfen.
