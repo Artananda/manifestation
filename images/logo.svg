@@ -57,7 +57,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.0113691"
-     inkscape:cx="101.03054"
+     inkscape:cx="100.09056"
      inkscape:cy="19.891993"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -98,14 +98,19 @@
        y="286.10901" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.31222725px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:#ffffff;stroke-width:0.1;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       x="1.4897571"
-       y="293.91769"
+       style="font-style:normal;font-weight:normal;font-size:5.26893759px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:#ffffff;stroke-width:0.08347192;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="2.4706018"
+       y="290.41989"
        id="text843"><tspan
          sodipodi:role="line"
          id="tspan841"
-         x="1.4897571"
-         y="293.91769"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.31222725px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#800080;stroke-width:0.1;stroke:#ffffff;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none">Manifestation</tspan></text>
+         x="2.4706018"
+         y="290.41989"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.26893759px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#800080;stroke:#ffffff;stroke-width:0.08347192;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Manifestiere ein</tspan><tspan
+         sodipodi:role="line"
+         x="2.4706018"
+         y="297.00607"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.26893759px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#800080;stroke:#ffffff;stroke-width:0.08347192;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan821">besseres Leben</tspan></text>
   </g>
 </svg>

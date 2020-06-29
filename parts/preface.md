@@ -1,10 +1,10 @@
-#Manifestation
+#Manifestiere ein besseres Leben
 **Ich mach mir die Welt, widde widde wie sie mir gefällt**  
 von Olaf Art Ananda  
 
 ##Anmerkung des Verfassers
-"Zwei mal Drei macht Vier, widde widde witt und drei macht Neune, ich mach' mir die Welt, widde widde wie sie mir gefällt." 
-Ist ein Zitat der deutschen Fassung von Pippi Langstrumpf, das ursprümglich von Astrid Lingren verfasst wurde.
+"Zwei mal Drei macht Vier, widde widde witt und drei macht Neune, ich mach mir die Welt, widde widde wie sie mir gefällt."  
+Die ist ein Zitat der deutschen Fassung von Pippi Langstrumpf, das ursprümglich von Astrid Lingren verfasst wurde.
 
 Ich biete dir dieses Buch im Geist des Geschenks an. Dieses Buch unterliegt der Creative-Commons-Lizenz, die es dir erlaubt, es für alle nicht kommerziellen Zwecke frei zu verwenden. Das heißt, daß du Auszüge aus dem Buch kopieren und in Blogs etc. verwenden darfst, solange du davon nichts verkaufst oder als Werbeträger verwendest. Ich ersuche dich hiermit auch die Quelle zu zitieren, damit auch für andere Menschen meine Arbeiten zugänglich sind. Weitere gesetzliche Details findet du auf der Creative-Commons-Webseite:  
 [creativecommons.org](creativecommons.org)  

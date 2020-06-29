@@ -22,16 +22,8 @@ Ebook {
         name: "Psych-K"
     }
     Part {
-        src: "problemelösen.md"
-        name: "Probleme lösen"
-    }
-    Part {
         src: "regnose.md"
         name: "Regnose"
-    }
-    Part {
-        src: "beispiel.md"
-        name: "Beispiel"
     }
     Part {
         src: "about.md"

@@ -99,7 +99,7 @@ Content {
 
                 Text {
                     text: "&lt;h1&gt;
-	&lt;strong&gt;Willkommen&lt;/strong&gt; bei Manifestation
+	&lt;strong&gt;Willkommen&lt;/strong&gt; bei Manifestiere ein besseres Leben
 	&lt;span class=&quot;subtitle&quot;&gt;ICH BIN SEHR FROH DAS DU DIESE SEITE GEFUNDEN HAST&lt;/span&gt;
 &lt;/h1&gt;
 &lt;p class=&quot;lead&quot;&gt;Hier bekommst du mein Buch über die Manifestation&lt;/p&gt;
@@ -150,7 +150,7 @@ Content {
                 span: 8
 
                 Text {
-                    text: "&lt;h2&gt;Manifestation&lt;/h2&gt;
+                    text: "&lt;h2&gt;Manifestiere ein besseres Leben&lt;/h2&gt;
 &lt;p class=&quot;lead&quot;&gt;
 	Ich mach mir die Welt, widde widde wie sie mir gefällt
 &lt;/p&gt;

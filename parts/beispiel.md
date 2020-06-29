@@ -1,2 +1,0 @@
-#Beispiel für eine Regnose
-
