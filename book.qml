@@ -26,6 +26,10 @@ Ebook {
         name: "Regnose"
     }
     Part {
+        src: "meditation.md"
+        name: "Meditation"
+    }
+    Part {
         src: "about.md"
         name: "Über den Autor"
     }
