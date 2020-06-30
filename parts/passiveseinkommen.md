@@ -23,29 +23,30 @@ Aber, es geht...
 Es war weder mein erstes Buch, das Geld einbrachte, noch war es mein zweites Buch, nein, es war mein drittes Buch [Python GUI - Create Cross Platform GUI Applications using Python, Qt and PyQt5](https://kdp.amazon.com/amazon-dp-action/de/dualbookshelf.marketplacelink/B088FWNFQP). In diesem Buch geht es um Programmierung. Um Benutzerinface-Programmierung. Ein Thema, das ich noch vor meinem Burnout in der Schweiz studiert hatte. Dieses Buch war schon kurz nach der Veröffentlichung auf **Platz #1 der Sparte Cross Platform Development**, nur weil ich einen kleinen aber feinen Marketing-Trick angewandt habe. Ich schreibe in meinem Buch [Step Out - A guideline how you can step out of this system and live a fulfilling life in abundance without the need to work at all](https://kdp.amazon.com/amazon-dp-action/de/dualbookshelf.marketplacelink/B086C8Z9MY) über dieses Thema.
 Du musst einfach nur beharrlich sein und wenn du eine gute Idee hast, es auch durchziehen.  
 
-Als ich [Camp Eden - How we have re-created our paradies](https://kdp.amazon.com/amazon-dp-action/de/dualbookshelf.marketplacelink/B086C8MTP3) letztes Jahr auf Englisch übersetzt hatte, zog es mich nach Portugal, um es dann auch zu leben. Ich war vom Jobcenter sanktioniert und hatte nur so um die 300,- € in der Tasche. Ich wusste aber, das ich es irgendwie schaffen kann. Normalerweise komme ich mit 300,- € keinen Monat aus und schon gar kann ich mit meinem Wohnmobil 3.500 Kilometer mit 300 € fahren. Ich würde nach Portugal ca. 350,- € für Diesel brauchen. Aber egal, ich fuhr los.  
+Als ich [Camp Eden - How we have re-created our paradies](https://kdp.amazon.com/amazon-dp-action/de/dualbookshelf.marketplacelink/B086C8MTP3) letztes Jahr auf Englisch übersetzt hatte, zog es mich nach Portugal, um es dann auch zu leben. In dem Buch schreibe ich darüber, wie ich mit ein paar Leuten eine Gemeinschaft in Portugal gründe. Ich war vom Jobcenter sanktioniert und hatte nur so um die 300,- € in der Tasche. Ich wusste aber, das ich es irgendwie schaffen kann. Normalerweise komme ich mit 300,- € keinen Monat aus und schon gar kann ich mit meinem Wohnmobil 3.000 Kilometer mit 300 € fahren. Ich würde nach Portugal ca. 350,- € für Diesel brauchen. Aber egal, ich fuhr los.
 
-Vielen lieben Dank noch mal <3
+In München machte ich bei einer Freundin halt, die ich in Berlin bei einer Demo mit Extinction Rebellion kennen gelernt hatte. Sie lud mich ein paar mal zum Essen bei sich Zuhause ein.
+Vielen lieben Dank noch mal dafür <3
 
 Dann wurde ich von einer ungarischen Freundin nach Wien eingeladen, sie ist eine der weniger, die mein Buch [Die Kunst zu leben und zu lieben](https://kdp.amazon.com/amazon-dp-action/de/dualbookshelf.marketplacelink/B079QC1NCY) gelesen hatte und wollte mich kennenlernen und zahlte mir den Flixbus von München nach Wien. Auch wenn ich nur 5 Kopien verkauft habe, das Geld bzw. der Lohn für dieses Buch kommt auf andere Wege rein. Sie fragte mich vorher schon mal, nach meiner Bankverbindung und überwies mir ganze 100,- €. Aus Dankbarkeit oder um mir zu helfen.
 Vielen vielen Dank an dieser Stelle noch einmal.  
 Ich bin nun also in Wien und wohne dort ein paar Tage mit dieser tollen Frau. Für Essen brauche ich auch nichts zu zahlen.  
 So kommt man gut über die Runden.  
 
-Mein Weg führte mich weiter nach Zürich, um meine Ehefrau dort zu treffen. Leider hat sie gar keine Zeit für mich und ich zog weiter nach Bern. Dort wollte ich mich von einer ganz lieben Freundin verabschieden. Ich wusste zu dem Zeitpunkt nicht, ob ich jemals nach Deutschland oder in die Schweiz zurückkommen würde, als war dies eine Art Abschiedtour.  
+Mein Weg führte mich weiter nach Zürich, um meine Ehefrau dort zu treffen. Leider hat sie gar keine Zeit für mich und ich zog weiter nach Bern. Dort wollte ich mich von einer ganz lieben Freundin verabschieden. Ich wusste zu dem Zeitpunkt nicht, ob ich jemals nach Deutschland oder in die Schweiz zurückkommen würde, als war dies eine Art Abschiedstour.  
 Ich hatte dieses nette Mädchen auf einem Tantramassage-Seminar kennengelernt, sie war es bei der ich mein Herz so richtig öffnen konnte. Ich war immer noch voller Liebe für sie.  
 Als ich sie dann an der Aare wiedertraf, war für mich klar, ich kann sie jetzt loslassen, denn sie war im 5 Monat schwanger.  
-Nicht das ich sie nicht mehr möchte, aber da war ja jetzt jemand anderes in ihrem Leben und da wollte ich mich nicht einmischen.  
+Nicht das ich sie nicht mehr mochte, aber da war ja jetzt jemand anderes in ihrem Leben und da wollte ich mich nicht einmischen.  
 
 Da ich nun aber schon mal in Bern war, wollte ich die Zeit auch sinnvoll nutzen und ging in die Uni-Bibliothek um online sein zu können. Ich glaube dort habe ich angefangen, mein Buch [Python GUI](https://kdp.amazon.com/amazon-dp-action/de/dualbookshelf.marketplacelink/B07VT6LVCB) zu schreiben.  
 
 Außerdem wollte mich eine andere liebe Freundin, die dort eine Massagepraxis hat, wiedersehen. Ach dieses liebe Wesen lud mich zum Esssen bei sich Zuhause und an meinem Geburtstag zu einem Bier im Pub ein. Dort lernte ich einen anderen wundervollen Menschen kennen, der mich sofort zu sich auf seinen Bauernhof einludt. Ich sollte mich wie Zuhause fühlen. Er zeigte mir ein Bett in dem ich schlafen konnte, zeigte mir seine Küche, in der ich mich nach Belieben bedienen sollte und er hat mir sogar seine Weinvorräte angeboten.  
 
 Er war einer der 5 Lesen meines ersten Buch und wollte mich unbedingt kennenlernen. Ich wurde von Dankbarkeit völlig überschwemmt. Zu dieser Zeit war er grad in einer schweren Krise und ich sah es als meine Aufgabe, ihm auf irgendeine Art und Weise zu helfen. Ich bot ihm Massagen an und zeigte ihm eine Technik, um Glaubensätze zu löschen. Diese Technik nennt sich Psych-K. Mit dieser Technik kann man unter anderem auch Dinge manifestieren. Aber dazu komme ich später noch.  
-Wir hatten eine tolle Zeit zusammen. Zwei Wochen war ich dort und als der Monat zuende ging, konnte ich weiter reisen, denn zum einen kam wieder Geld vom Jobcenter sein und zum anderen hat mich dieser Freund göttlich belohnt. Er gab mir u.a. seine Tankkarte inkl. Geheimnummer und lud mich ein, mein Wohnmobil voll zu tanken.
+Wir hatten eine tolle Zeit zusammen. Zwei Wochen war ich dort und als der Monat zuende ging, konnte ich weiter reisen, denn zum einen kam wieder Geld vom Jobcenter rein und zum anderen hat mich dieser Freund göttlich belohnt. Er gab mir u.a. seine Tankkarte inkl. Geheimnummer und lud mich ein, mein Wohnmobil voll zu tanken.
 Nochmals vielen Dank mein Bruder, werde bitte wieder gesund, ich liebe Dich <3
 
-Nun konnte ich bis kurz vor Lissabon fahren. Da ich in Madrid von einem Trickbetrüger beklaut wurde mußte ich auf die Navigation in meinem Handy verzichten und verfuhr mich um ca. 240 Kilometer. Es reichte also nicht bis nach Lissabon, aber ich kam in Caldas da Rheina an. Welch eine göttliche Fügung. In dieser Stadt lernte ich einen Jungen Strassenmusiker kennen, mit dem ich zusammen Musik gemacht habe und das allererste Mal auf der Strasse Gitarre gespielt hatte. Auf diese Weise war es mir möglich, zwischen 15 und 20,-€ für 1-2 Stunden Strassenmusik zu verdienen.  
+Nun konnte ich bis kurz vor Lissabon fahren. Da ich in Madrid von einem Trickbetrüger beklaut wurde, mein Handy wurde gestohlen, mußte ich auf die Navigation in meinem Handy verzichten und verfuhr mich um ca. 240 Kilometer. Es reichte also nicht bis nach Lissabon, aber ich kam in Caldas da Rheina an. Welch eine göttliche Fügung. In dieser Stadt lernte ich einen Jungen Strassenmusiker kennen, mit dem ich zusammen Musik gemacht habe und das allererste Mal auf der Strasse Gitarre gespielt hatte. Auf diese Weise war es mir möglich, zwischen 15 und 20,-€ für 1-2 Stunden Strassenmusik zu verdienen.  
 
 Das reicht völlig, um zu überleben.
 
@@ -54,7 +55,7 @@ Nach dem mir das klar wurde, hat es nur ein paar Wochen gedauert und das Jobcent
 Egal, ich komme nun trotzdem über die Runden und das mit Musike.
 
 Hm, und nun?
-Nun sperren die mir doch glatt die Leute in ihre Wohnungen und keiner schmeißt mir mehr Münzen in meine Gitarrenbox.  
+Nun sperren die mir doch glatt die Leute in ihre Wohnungen und keiner schmeißt mir mehr Münzen oder Obst in meine Gitarrenbox. Auch kamen die Bauern nicht mehr auf den Markt, wo ich kurz vor Schluß noch Gemüse und Obst retten konnte.
 
 Kein Geld mehr vom Jobcenter, kein Geld mehr von der Strassenmusik, wie soll das nun bitte weitergehen?
 
@@ -68,7 +69,7 @@ Ja ja, das sind bestimmt Peanuts aus der Sicht eines deutschen Arbeiters. Und gl
 
 Aber hier in Portugal, im Wohnmobil lebend, ist das ausreichend.  
 
-Und wie du sehen kannst, schreibe ich bereits ein neues Buch. Und auch dieses Buch kann ein Bestseller werden, denn es kann dir und anderen Menschen helfen, auch ein passives Einkommen oder was auch immer du möchtest, zu manifestieren. Du kannst mit Hilfe dieses Buches mit Problemen fertig werden, die du noch nicht einmal gespührt hast. Da kommen wir noch dazu. Später.
+Und wie du sehen kannst, schreibe ich bereits ein neues Buch. Und auch dieses Buch kann ein Bestseller werden, denn es kann dir und anderen Menschen helfen, auch ein passives Einkommen oder was auch immer du möchtest, zu manifestieren.  
 
 Wie du sehen kannst, habe ich es geschafft, ein passives Einkommen zu manifestieren. Es ging zwar nicht Simsalabim, aber immerhin, hab ich es jetzt geschafft. Und der Strom an Ideen für neue Bücher reißt ja nicht ab. Immerhin habe ich nun wirklich genug Zeit, um die großen Dinge zu manifestieren, denn nun bin ich nicht mehr von Existenzängsten abgelenkt und muss für irgendjemanden Arbeiten gehen, damit der reich wird.
  

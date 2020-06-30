@@ -21,7 +21,7 @@ Bauchi stellt einem Antagonisten in dem Buch folgende Frage: "Wie seit ihr die R
 Genau so sehe ich die aktuelle Situation auch gerade. Wenn wir denen dort oben ihre Macht nicht mehr geben, ihnen also ihre Autorität nehmen, in dem wir zum Beispiel den Ungehorsam betreiben und keine Maske tragen, dann sehen sie, das wir uns nicht mehr unterordnen. Wenn dich eine Bobby in London fragt, "Do you understand me?", und du antwortest, "No, I don't understand you, but I can hear you", antwortest, dann weiß der Sheriff, das er keinerlei Macht mehr über dich hat. Du unterstehst ihm nicht mehr.  
 
 #Wirtschaft
-Genau so können wir die Wirtschaft ändern. Zu aller erst, sollten wir keine Kredite mehr aufnehmen, das macht die Banken auf kurz oder lang pleite. Dann haben die keine Spielgeld mehr, um damit auf dem Aktien- und Derivatemarkt zu zoggen.  
+Genau so können wir die Wirtschaft ändern. Zu aller erst, sollten wir keine Kredite mehr aufnehmen, das macht die Banken auf kurz oder lang pleite. Dann haben die kein Spielgeld mehr, um damit auf dem Aktien- und Derivatemarkt zu zoggen.  
 
 Wenn wir uns nun auch nicht mehr der Werbung Untertan machen und all diese unnützen Produkte und Dienstleistungen nicht mehr kaufen, dann fallen ganze Wirtschaftsimperien in sich zusammen.  
  

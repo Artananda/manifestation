@@ -2,7 +2,7 @@
 
 Hier habe ich dir einmal eine Meditation auf Deutsch übersetzt, die mir persönlich geholfen hat, mein passives Einkommen zu manifestieren.  
 Am besten wäre es, wenn du dir die Meditation herunterlädst und dir anhörst, während du bequem sitzt oder liegst.  
-Sende mit einfach eine Email an [japp.olaf@gmail.com](mailto:japp.olaf@gmail.com) mit der Bitte, dir die Manifestation zu diesem Buch zukommen zu lassen.  
+Sende mit einfach eine Email an [olafartananda@protonmail.com](mailto:olafartananda@protonmail.com) mit der Bitte, dir die Manifestation zu diesem Buch zukommen zu lassen.  
 
 Auf dieser Meditation werde ich dich dazu führen, alles zu manifestieren, was du dir vorstellen kannst. Du solltest diese Sitzung machen, wenn du alleine in einem ruhigen Raum bist und bitte nicht beim fahren oder während du etwas anderes machst. Konzentriere dich nur auf meine Stimme. Zunächst möchte ich, dass du eine Absicht wählst. Was willst du erreichen. Was möchten Sie manifestieren? Wähle vorerst nur eine Sache aus.
 
@@ -49,7 +49,7 @@ Erlaube dir auch, offen für die Möglichkeit zu sein, dass du zu etwas noch Bes
 
 Alle Dinge sind in dem Moment 
 
-Nehmen die jetzt einen Moment Zeit und stelle dir vor, du hast deine Absicht oder deinen Wunsch bereits erreicht. Nicht in der Zukunft. Es ist jetzt hier. Stelle dir vor, wie es sich anfühlen würde, wenn du es absolut wüsstest, dass du bereits das hast, was du wolltest. Fühle dieses Gefühl jetzt. Die positive Schwingungsenergie, die du ausgesendet hast, hat sie bereits erzeugt. Aber sei aufgeregt darüber, sei aufgeregt darüber. Jetzt öffne deine Augen und schau dich um. Gehen nun durch dein Zimmer, höre die Geräusche, fühlen die Temperatur. Du strahlst in diesem Moment immer noch diese positive Energie aus und weißt, dass du deinen Wunsch manifestiert hast.
+Nehme dir jetzt einen Moment Zeit und stelle dir vor, du hast deine Absicht oder deinen Wunsch bereits erreicht. Nicht in der Zukunft. Es ist jetzt hier. Stelle dir vor, wie es sich anfühlen würde, wenn du es absolut wüsstest, dass du bereits das hast, was du wolltest. Fühle dieses Gefühl jetzt. Die positive Schwingungsenergie, die du ausgesendet hast, hat sie bereits erzeugt. Aber sei aufgeregt darüber, sei aufgeregt darüber. Jetzt öffne deine Augen und schau dich um. Gehe nun durch dein Zimmer, höre die Geräusche, fühlen die Temperatur. Du strahlst in diesem Moment immer noch diese positive Energie aus und weißt, dass du deinen Wunsch manifestiert hast.
 
-Höre dir diese Wörter an und wiederholen Sie sie häufig. Das, was ich suche, sucht mich. Und lass los, wie es zu mir kommen wird. Mein Fokus und mein Herzenswunsch. Mein höheres Selbst in mir weiß, wie es geschehen kann. Ich entspanne mich einfach und lasse los. Alles, was zur Erfüllung meiner Wünsche notwendig ist, zieht mich liebevoll und harmonisch an. Ich akzeptiere das oder etwas Besseres. Bereit, empfänglich und dankbar.  
+Höre dir diese Wörter an und wiederhole sie häufig. Das, was ich suche, sucht mich. Und lass los, wie es zu mir kommen wird. Mein Fokus und mein Herzenswunsch. Mein höheres Selbst in mir weiß, wie es geschehen kann. Ich entspanne mich einfach und lasse los. Alles, was zur Erfüllung meiner Wünsche notwendig ist, zieht mich liebevoll und harmonisch an. Ich akzeptiere das oder etwas Besseres. Bereit, empfänglich und dankbar.  
 So ist es.

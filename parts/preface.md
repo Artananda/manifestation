@@ -6,7 +6,7 @@ von Olaf Art Ananda
 "Zwei mal Drei macht Vier, widde widde witt und drei macht Neune, ich mach mir die Welt, widde widde wie sie mir gefällt."  
 Die ist ein Zitat der deutschen Fassung von Pippi Langstrumpf, das ursprünglich von Astrid Lindgren verfasst wurde.
 
-Ich biete dir dieses Buch im Geist des Geschenks an. Dieses Buch unterliegt der Creative-Commons-Lizenz, die es dir erlaubt, es für alle nicht kommerziellen Zwecke frei zu verwenden. Das heißt, dass du Auszüge aus dem Buch kopieren und in Blogs etc. verwenden darfst, solange du davon nichts verkaufst oder als Werbeträger verwendest. Ich ersuche dich hiermit auch die Quelle zu zitieren, damit auch für andere Menschen meine Arbeiten zugänglich sind. Weitere gesetzliche Details findet du auf der Creative-Commons-Webseite:  
+Ich biete dir dieses Buch im Geist des Geschenks an. Dieses Buch unterliegt der Creative-Commons-Lizenz, die es dir erlaubt, es für alle nicht kommerziellen Zwecke frei zu verwenden. Das heißt, dass du Auszüge aus dem Buch kopieren und in Blogs etc. verwenden darfst, solange du davon nichts verkaufst oder als Werbeträger verwendest. Ich ersuche dich hiermit auch die Quelle zu zitieren, damit auch für andere Menschen meine Arbeiten zugänglich sind. Weitere gesetzliche Details findest du auf der Creative-Commons-Webseite:  
 [creativecommons.org](creativecommons.org)  
 Die Eigenschaft von Geschenken ist, dass das Gegengeschenk nicht im Voraus festgelegt wird. Wenn du dieses Buch kostenlos erhalten hast oder verbreitest, begrüße ich ein freiwilliges Gegengeschenk, das die Dankbarkeit oder Wertschätzung zum Ausdruck bringt, die du vielleicht empfindest. Du kannst das auch über die folgende Webseite tun.
 Einen großen Teil meines Wissens in diesem Buch habe ich seinerzeit auch geschenkt bekommen und schenke es hiermit an dich weiter.
@@ -24,7 +24,7 @@ Für jeden Menschen, der bereits erwacht ist und sein Leben selber in die Hand n
 Für Menschen, die noch an den Weihnachtsmann, den Osterhasen oder an die Politiker glauben.
 
 ##Wie Du Mich Kontaktieren Kannst
-Solltest du eine Frage oder ein Kommentar zu diesem Buch haben, scheue dich nicht, mir eine Email zu schreiben. Sende deine Fragen und Kommentare einfach an: japp.olaf@gmail.com
+Solltest du eine Frage oder ein Kommentar zu diesem Buch haben, scheue dich nicht, mir eine Email zu schreiben. Sende deine Fragen und Kommentare einfach an: [olafartananda@protonmail.com](mailto:olafartananda@protonmail.com)
 
 ##Danksagungen
 Zu aller erst bin ich meinem Körper dankbar, weil er mich zur richtigen Zeit auf die richtigen Wege geführt hat. Ich weiß, das klingt bestimmt ein bisschen verrückt, aber da ich Maschinenschlosser gelernt habe und bereits nach wenigen Jahren, Rückenscherzen bekam und über ein halbes Jahr krank war, habe ich angefangen Maschinenbau zu studieren und während des Studiums habe ich dann mit dem Programmieren angefangen. Zu der Zeit habe ich mich entschieden, mein Studium abzubrechen und als Softwareentwickler zu arbeiten.  

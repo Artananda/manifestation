@@ -5,13 +5,13 @@ Psych-K ist eine sehr gute und schnelle Methode, um dein Unterbewusstsein neu zu
 
 ## Muskeltest (Kinesologie)
 Um Psych-K durchführen zu können, benötigen wir noch eine zusätzliche Methode, den Muskeltest.  
-Man kann diesen Muskeltest zu zweit durchführen, ich zeige die hier aber die Version, die du auch alleine durchführen kannst.  
+Man kann diesen Muskeltest zu zweit durchführen, ich zeige dir hier aber die Version, die du auch alleine durchführen kannst.  
 
 Berühre dafür bitte den Daumen der linken Hand mit dem Zeigefinger der linken Hand und bilde so einen Kreis. Nun machst du selbiges mit den Fingern der rechte Hand und führst diese beiden Kreise ineinander.  
 
 Denke nun an das Wort "JA" und versuche deine Finger, also die beiden Kreise, auseinander zu ziehen. Merke dir bitte, wie viel Kraft du dafür aufgewendet hast.  
 Nun denke an ein "NEIN" und versuche wiederum die Finger auseinander zu ziehen.  
-Hierfür sollte nun weniger Kraft nötig gewesen sein, da dein Körper beim Gedanken an ein Nein eher in Stress kommt und damit die Muskeln nicht so viel Kraft haben.  
+Hierfür sollte nun weniger Kraft nötig gewesen sein, da dein Körper beim Gedanken an ein Nein eher in Stress kommt und dabei die Muskeln nicht so viel Kraft haben.  
 Mache diesen Test gleich noch einmal. Nutze nun in beiden Tests genau so viel Kraft, wie es nötig war, um deine Finger bei einem Nein auseinander zu ziehen, aber nur so viel, das die Finger bei einem Ja zusammen bleiben.  
 Spiele ein wenig damit herum. Sage zum Beispiel: "Mein Name ist ..." Ersetze die Punkte mit deinem Namen. Die Antwort deines Körpers in Form von Kraft, sollte Ja sein. Setzte nun einen anderen Namen als deinen ein und mache den Test erneut. Die Finger sollten nun auseinander gehen. Die Antwort ist also Nein.  
 Mit dieser Methode kannst du unter anderem aktive limitierende Glaubenssätze in deinem Unterbewusstsein aufspüren.  
@@ -79,15 +79,13 @@ Ich war vor einigen Tagen tatsächlich kurz davor, mir ein passives Einkommen in
 All diese Ideen kamen mir als ich *Zero Limits* und später *The Attractor Factor*, beide von Joe Vitali gelesen hatte. In dem Buch Zero limits geht es ja noch um Heilung, was ich total wichtig finde, wenn ich einen anderen Menschen heilen kann und mich dann gleichzeitig auch heile. Joe erklärt es allerdings anders herum.  
 Er heilt sich, mit der beschriebenen Methode. Ich nutze die Methode (Self IDentity through Ho'oponopono) eher bei anderen und wenn's mich auch heilt, um so besser.  
 
-In dem zweiten Buch *The Attractor Factor* schreibt Jo aber, das er der erste Trillionär auf der Erde werden wollte. Joe hat übrigens in dem Film *The Secret* mitgespielt. Als ich das gehört habe ist mir klar geworden, das kann nicht MEIN Ziel sein. Er erwähnte auch sein Buch über Marketing. Er halt also tatsächlich nur das Geld im Kopf. Armer Mann diese Joe. Geld hat er doch bereits genug, warum will er denn noch mehr?  
+In dem zweiten Buch *The Attractor Factor* schreibt Jo aber, das er der erste Trillionär auf der Erde werden wollte. Joe hat übrigens in dem Film *The Secret* mitgespielt. Als ich das gehört habe ist mir klar geworden, das kann nicht MEIN Ziel sein. Er erwähnte auch sein Buch über Marketing. Er hat also tatsächlich nur das Geld im Kopf. Armer Mann diese Joe. Geld hat er doch bereits genug, warum will er denn noch mehr?  
 
 Ok, ich will ja gar nicht meckern oder verurteilen. Ich wollte dir nur auf den Weg mitgeben, das das Manifestieren von Geld nicht das Ziel sein sollte. Auch Reichtum in Form von einem großen Haus und eines dicken Autos kann nicht das Ziel sein.  
 
 Ich kann mir nicht vorstellen, das sich das während der Imagination gut anfühlt. Und wenn ich es nicht fühlen kann, dann bin ich damit nicht im Einklang mit meinem Herzen, dann wird es nicht eintreten. Und wenn es eintritt, wird es sich auch dann nicht gut anfühlen.  
 
 Überdenke also vorher deine Wünsche.  
-
-Im letzten Kapitel gewähre ich dir einen Einblick, in das, was ich persönlich in mein Leben ziehen möchte, in dem ich eine Regnose schreibe. Das ist für mich DIE Methode, um Dinge und Situationen in mein Leben zu ziehen.
 
 Aber ich sollte dir eben noch die Psych-K Methode fertig erklären.  
 Du bist also nun visuell und vom Gefühl her in deinem Traum. Du stellst dir dein neues Leben in allen Einzelheiten vor und spürst schon mal rein.  
