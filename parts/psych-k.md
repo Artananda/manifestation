@@ -1,4 +1,7 @@
 # Psych-K
+
+![robot](../images/robot.png "robot")
+
 Psych-K ist eine Methode mit der du Glaubenssätze löschen und umprogrammieren kannst.
 
 Psych-K ist eine sehr gute und schnelle Methode, um dein Unterbewusstsein neu zu programmieren. Mit dieser Methode kombinierst du beide Teile des Gehirns, gehst in einen meditativen Geisteszustand über und überlegst dir, woher dieser Glaube kommt. Oft kommen Überzeugungen von Eltern, Brüdern, Schwestern, Freunden, der Schule usw.. Nicht alle Überzeugungen basieren auf einer soliden Erfahrung von uns selbst. Selbst wenn wir eine Erfahrung gemacht haben, glaubt und reagiert unser Unterbewusstsein immer noch auf der Grundlage von Überzeugungen. Wenn ich sage, dass es reagiert, meine ich, dass wir die meiste Zeit mit Autopilot fahren. Erinnerst du dich an das erste Mal, als du mit dem Fahrrad gefahren bist? Ich musste an fast jeden einzelnen Muskel denken, um mich zur richtigen Zeit in der richtigen Reihenfolge zu bewegen. Heute denke ich nicht einmal mehr an meine Muskeln. Ich fahre einfach irgend wohin. Mein Unterbewusstsein macht das alleine. Gleiches gilt für Atmung, Herzschlag, das Wachsen der Fingernägel, das Heilen der Wunden, das Wachsen der Haare sowie das Spalten und Regenerieren von Zellen. Alles auf Autopilot. Wenn wir uns also neu programmieren, können wir unser Leben komplett verändern. Dies gilt auch für Ängste. Und mit dieser Methode ist es möglich, Dinge zu manifestieren.

@@ -1,4 +1,7 @@
 # Passives Einkommen
+
+![map](../images/map.png "map")
+
 Wenn du wirklich **frei** sein möchtest, dann rate ich dir, ein passives Einkommen zu manifestieren.  
 
 Vor zwei Jahren saß ich in Berlin mit einer Freundin zusammen und wir versuchten ein passives Einkommen für uns zu manifestieren.  

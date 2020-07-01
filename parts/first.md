@@ -1,5 +1,6 @@
 #Meine erste Manifestation
 
+![porsche](../images/porsche.png "porsche")
 Ich war ungefähr 10 Jahre alt und spielte mit einem Freund auf seiner Carrera 124. Wenn du über 40 sein solltest, kennst du diese Spielzeug-Rennbahn eventuell ja noch. Er war Unternehmersohn und hatte natürlich viele viele Spielsachen. Jedes Mal, wenn ich ihn im Autorennen geschlagen habe, ging er an seinen Schrank und holte eine Packung mit einem silbernen 911er Porsche raus. Dieser war nicht nur schneller als die anderen Autos, nein er hatte sogar Moosgummireifen, damit er mehr Grip in den Kurven hatte. 
 Ich hatte damals keine Chance gegen dies Auto. 
 Ich schwor mir damals, irgendwann werde ich auch so einen Flitzer haben, aber einen richtigen.  

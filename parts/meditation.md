@@ -1,5 +1,7 @@
 #Meditation zum Manifestieren
 
+![yoga](../images/yoga.png "yoga")
+
 Hier habe ich dir einmal eine Meditation auf Deutsch übersetzt, die mir persönlich geholfen hat, mein passives Einkommen zu manifestieren.  
 Am besten wäre es, wenn du dir die Meditation herunterlädst und dir anhörst, während du bequem sitzt oder liegst.  
 Sende mit einfach eine Email an [olafartananda@protonmail.com](mailto:olafartananda@protonmail.com) mit der Bitte, dir die Manifestation zu diesem Buch zukommen zu lassen.  

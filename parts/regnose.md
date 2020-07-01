@@ -1,4 +1,7 @@
 # Regnose
+
+![beach](../images/beach.png "beach")
+
 Eine Regnose ist quasi das Gegenteil einer Prognose. Bei einer Prognose prognostizierst du, wie die Zukunft aussehen könnte. Du versuchst also, die Zukunft vorauszusagen.  
 Bei einer Regnose sagst du die Zukunft nicht voraus, du bestimmst die Zukunft und berichtest aus der Zukunft, wie es ausgehend von Heute dazu gekommen ist, die Zukunft, also aus Sicht aus der Zukunft heraus, zu dem gekommen ist, wie es jetzt (in der Zukunft) ist. Während du eine Regnose, also ein Buch schreibst, kannst du fühlen, wie es sich dort anfühlt, du kannst imaginieren, wie es dort aussieht und du kannst jeden Schritt aufzeigen, wie es dazu gekommen ist, das zu erreichen. Du gehst ausgehend von deinem Ziel, deinem Wunsch rückwärts und zeigst jeden Punkt auf, der nötig ist.  
  
