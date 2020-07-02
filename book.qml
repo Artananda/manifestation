@@ -34,6 +34,10 @@ Ebook {
         name: "Meditation"
     }
     Part {
+        src: "inspiration.md"
+        name: "Inspiration"
+    }
+    Part {
         src: "about.md"
         name: "Über den Autor"
     }
