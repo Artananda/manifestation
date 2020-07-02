@@ -3,7 +3,8 @@
 ![beach](../images/beach.png "beach")
 
 Eine Regnose ist quasi das Gegenteil einer Prognose. Bei einer Prognose prognostizierst du, wie die Zukunft aussehen könnte. Du versuchst also, die Zukunft vorauszusagen.  
-Bei einer Regnose sagst du die Zukunft nicht voraus, du bestimmst die Zukunft und berichtest aus der Zukunft, wie es ausgehend von Heute dazu gekommen ist, die Zukunft, also aus Sicht aus der Zukunft heraus, zu dem gekommen ist, wie es jetzt (in der Zukunft) ist. Während du eine Regnose, also ein Buch schreibst, kannst du fühlen, wie es sich dort anfühlt, du kannst imaginieren, wie es dort aussieht und du kannst jeden Schritt aufzeigen, wie es dazu gekommen ist, das zu erreichen. Du gehst ausgehend von deinem Ziel, deinem Wunsch rückwärts und zeigst jeden Punkt auf, der nötig ist.  
+Bei einer Regnose sagst du die Zukunft nicht voraus, du bestimmst die Zukunft und berichtest aus der Zukunft, wie es ausgehend von Heute dazu gekommen ist. 
+Während du eine Regnose, also ein Buch schreibst, kannst du fühlen, wie es sich dort anfühlt, du kannst imaginieren, wie es dort aussieht und du kannst jeden Schritt aufzeigen, wie es dazu gekommen ist, das zu erreichen. Du gehst ausgehend von deinem Ziel, deinem Wunsch rückwärts und zeigst jeden Punkt auf, der nötig ist, bzw. nötig war.  
  
 Du solltest einmal mein Buch, [Camp Eden - Wie wir das Paradies wieder erschafft haben](https://kdp.amazon.com/amazon-dp-action/de/dualbookshelf.marketplacelink/B07Y9T5KN5), lesen, dann weißt du, was mit einer Regnose gemeint ist.
 In diesem Buch erzähle ich meinen Enkelkindern im Jahre 2039, wie wir das erreicht haben, was wir dort vorfinden. Dort leben wir alle im Paradies. Wir leben in einer Gemeinschaft, in der wir weder Geld haben, noch Tausch, noch Handel betreiben, sondern jeder das gibt, was er kann oder worin er talentiert ist, ohne etwas im Gegenzug zu erwarten.
@@ -35,4 +36,11 @@ Wenn wir weniger Steuern zahlen, dann müssen unsere Regierungen über kurz oder
 Wir alle haben es in der Hand.  
 
 Was ich eigentlich sagen will, ist das ich glaube, das Bauchi genau das mit seinem Buch, [2020-Die neue Erde](lest2020.de), erreicht hat. 
-Die Menschen wachen auf. 
+Die Menschen wachen auf.  
+
+Wenn du nun auch eine Regnose schreiben möchtest, dann scheue dich nicht, es in Form eines Buches niederzuschreiben und zu veröffentlichen. Sicherlich wirst du auf diese Weise gleichgesinnte Menschen finden, die damit in Resonanz gehen und dann erschafft ihr zusammen diesen Traum.  
+Zumindest ergeht es mir gerade so.  
+
+Wenn du nicht weißt, wie man ein Buch schreibt oder veröffentlicht, dann kann ich dir dabei sicherlich und gerne helfen.  
+
+Schreib mir einfach eine Email: [olafartananda@protonmail.com](mailto:olafartananda@protonmail.com)

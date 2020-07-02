@@ -100,3 +100,45 @@ Bist du nun lange genug in diesem Zustand, dann löse langsam die Verschränkung
 Denke nun wieder an etwas ganz anderes oder folge einfach deinem Atem.
 
 Nach ein paar Minuten kannst du mit dem Muskeltest prüfen, ob der Prozess nun abgeschlossen ist und öffnest nun langsam wieder die Augen und lässt das Außen aus dir heraus scheinen.
+
+Ich muss dir den letzten Satz noch etwas näher bringen, denke ich.
+Das habe ich mal so in der Art während eines Lomi Lomi Massage-Kurses gehört. Damals hat es für mich noch keinen Sinn gemacht.  
+Heute weiß ich, oder besser gesagt, ich bin mir fast sicher es zu wissen, das wir unsere Realität selber kreieren.  
+Also denke ich, und da bin ich einer Meinung mit all den Gurus da draußen, das wir unsere Realität nach Außen projizieren.  
+
+Deshalb funktioniert auch Psych-K. Wir ändern einfach unsere Programmierung und im Außen ändert sich etwas. Diese Änderung geschehen natürlich nicht sofort.  
+Das wäre ja auch fatal.  
+Stell dir nur einmal vor, du denkst nun wirklich mal an einen rosa Elefanten und schwups sitzt der neben dir ;-)  
+
+Alles benötigt seine Zeit.  
+Das Außen ändert sich ja auch nicht wirklich, du änderst lediglich deine Wahrnehmung.  
+
+Stelle dir einmal vor, das das Licht, das wir sehen können, nur ein Bruchteil von dem ausmacht, was wirklich da ist. Wir sehen zum Beispiel kein Infrarot. Aber dies Infrarot ist da.
+
+So könnte es doch auch sein, das wir durch unsere Umprogrammierung ganz einfach diverse Filter fallen lassen und nun unseren Fokus auch auf andere Dinge richten können. 
+
+Mache doch bitte mal einen Versuch und zähle morgen mal alle grünen Autos in deiner Stadt. Du wirst dich wundern, das es doch so viele sein können. Das nennt man selektive Wahrnehmung. Da du deinen Fokus nun auf grüne Autos richtest, wirst du auch vermehrt grüne Autos sehen.  
+Ich habe das Experiment gemacht und für mich hat es, zumindest beim zweiten Versuch, geklappt. Beim ersten Versuch war ich auf dem Land, da hatte ich grad mal 10 Autos pro Tag gesehen und keines war grün.  
+
+Auch machte ich nachfolgendes Experiment, das ich dir rate, auch mal zu machen.
+Nimm dir zwei Drähte, so ca. 40 cm lang und biege sie zu einem L.  
+Halte die Drähte nun am kurzen Ende in deinen Händen und strecke deine Hände aus.  
+Denke nun an etwas Positives und beobachte die Drähte. Gehen die Drahtende zusammen oder auseinander?
+Denke im zweiten Versuch nun an etwas Negatives und beobachte wieder die Drähte.  
+
+Bei mir änderte sich die Richtung der Drähte, auf Basis meiner Gedanken!  
+
+Für mich ist das der Beweis, das ich mit Hilfe meiner Gedanken, die Realität beeinflussen kann. 
+
+Somit kann sich die Realität ändern, sobald wir unser Unterbewusstsein umprogrammieren. Auf diese Weise sind wir in der Lage, alles, was wir uns erträumen, zu manifestieren.  
+Eines sei aber noch gesagt, wenn du nun denkst du kannst dir eine Million Euro herbeimanifestieren, dann sei gewarnt.  
+Das kann nur funktionieren, wenn du 100% daran glaubst.  
+Ich persönlich habe damit Schwierigkeiten, denn ich benötige nicht so viel Geld.
+Ich bekomme von meinem Herzen kein Zeichen, das dies gehen könnte, da mein Herz da einen anderen, wichtigeren Weg gehen möchte.  
+
+Eo, eine Freundin von mir, hat uns da eine kleine Geschichte geschrieben, wie die Welt für uns aussehen könnte. Du findest sie am Ende dieses Buches unter "Inspiration". Mit dieser Geschichte geht mein Herz in Resonanz. Dieses Leben kann ich anziehen und zu meiner Realität machen.  
+
+Aber was immer du möchtest, kann in Erfüllung gehen. Eventuell hast du ja eine Idee, wie du Obdachlosen mit einer Million Euro einen Wohnraum zur Verfügung stellen kannst. Oder du kaufst Land zum Preis von einer Million und gründest dort eine Gemeinschaft in der die Menschen ihr Essen selber anbauen können.  
+
+Das Geld ist ja nicht schlecht, wir sollten uns bei der Manifestation aber lieber auf das fokussieren, was wir mit dem Geld erreichen wollen. Das können wir dann auch besser imaginieren und spüren.
+ 
