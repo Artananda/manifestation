@@ -16,14 +16,14 @@ Ich habe die Zusammenkunft mit dem Freund aber in mein Leben gerufen. Es quasi i
 
 Hier hat also das Gesetzt der Anziehung gewirkt.
 
-Diese Methode der Manifestation habe ich nicht selbst erfunden, sondern eher gefunden, nach dem ich das Buch **2020 - Die neue Erde** von Jesus Bruder Bauchi, einem Freund von mir gelesen habe. Bauchi verwendet genau diese Technik. Er veröffentlicht sein Buch im Jahr 2015, also 5 Jahre vor der Zeitreise, die der Protagonist in dem Buch unternimmt.  
+Diese Methode der Manifestation habe ich nicht selbst erfunden, sondern eher gefunden, nach dem ich das Buch, [2020 - Die neue Erde](http://lest2020.de) von Jesus Bruder Bauchi, einem Freund von mir gelesen habe. Bauchi verwendet genau diese Technik. Er veröffentlicht sein Buch im Jahr 2015, also 5 Jahre vor der Zeitreise, die der Protagonist in dem Buch unternimmt.  
 Als ich das Buch lese, gehe ich sofort in Resonanz. Ich habe gefühlt, das alles was in dem Buch beschrieben wurde, stattfinden wird. Heute schreiben wir das Jahr 2020. Heute haben wir eine weltweite Krise wegen dem Corona-Virus. Ich lasse es einfach mal offen, ob es diesen Virus wirklich gibt, es eher eine harmlose Grippe ist und von den Regierungen benutzt wird um andere Dinge zu vertuschen oder oder oder...  
 Fakt ist, das sich grad einiges auf dieser Welt tut.  
 ##Autorität
 Bauchi stellt einem Antagonisten in dem Buch folgende Frage: "Wie seit ihr die Reichen und die Regierungen losgeworden?". Es wird wie folgt geantwortet: "Wir haben ihnen ihre Macht nicht mehr gegeben und ihr Geld nicht mehr benutzt."  
 Genau so sehe ich die aktuelle Situation auch gerade. Wenn wir denen dort oben ihre Macht nicht mehr geben, ihnen also ihre Autorität nehmen, in dem wir zum Beispiel den Ungehorsam betreiben und keine Maske tragen, dann sehen sie, das wir uns nicht mehr unterordnen. Wenn dich eine Bobby in London fragt, "Do you understand me?", und du antwortest, "No, I don't understand you, but I can hear you", antwortest, dann weiß der Sheriff, das er keinerlei Macht mehr über dich hat. Du unterstehst ihm nicht mehr.  
 
-#Wirtschaft
+##Wirtschaft
 Genau so können wir die Wirtschaft ändern. Zu aller erst, sollten wir keine Kredite mehr aufnehmen, das macht die Banken auf kurz oder lang pleite. Dann haben die kein Spielgeld mehr, um damit auf dem Aktien- und Derivatemarkt zu zoggen.  
 
 Wenn wir uns nun auch nicht mehr der Werbung Untertan machen und all diese unnützen Produkte und Dienstleistungen nicht mehr kaufen, dann fallen ganze Wirtschaftsimperien in sich zusammen.  
@@ -34,5 +34,5 @@ Wenn wir weniger Steuern zahlen, dann müssen unsere Regierungen über kurz oder
 
 Wir alle haben es in der Hand.  
 
-Was ich eigentlich sagen will, ist das ich glaube, das Bauchi genau das mit seinem Buch erreicht hat. 
+Was ich eigentlich sagen will, ist das ich glaube, das Bauchi genau das mit seinem Buch, [2020-Die neue Erde](lest2020.de), erreicht hat. 
 Die Menschen wachen auf. 

@@ -6,8 +6,9 @@ von Olaf Art Ananda
 "Zwei mal Drei macht Vier, widde widde witt und drei macht Neune, ich mach mir die Welt, widde widde wie sie mir gefällt."  
 Die ist ein Zitat der deutschen Fassung von Pippi Langstrumpf, das ursprünglich von Astrid Lindgren verfasst wurde.
 
-Ich biete dir dieses Buch im Geist des Geschenks an. Dieses Buch unterliegt der Creative-Commons-Lizenz, die es dir erlaubt, es für alle nicht kommerziellen Zwecke frei zu verwenden. Das heißt, dass du Auszüge aus dem Buch kopieren und in Blogs etc. verwenden darfst, solange du davon nichts verkaufst oder als Werbeträger verwendest. Ich ersuche dich hiermit auch die Quelle zu zitieren, damit auch für andere Menschen meine Arbeiten zugänglich sind. Weitere gesetzliche Details findest du auf der Creative-Commons-Webseite:  
-[creativecommons.org](creativecommons.org)  
+Ich biete dir dieses Buch im Geist des Geschenks an. Dieses Buch unterliegt der Creative-Commons-Lizenz, die es dir erlaubt, es für alle nicht kommerziellen Zwecke frei zu verwenden. Das heißt, dass du Auszüge aus dem Buch kopieren und in Blogs etc. verwenden darfst, solange du davon nichts verkaufst oder als Werbeträger verwendest. Ich ersuche dich hiermit auch die Quelle zu zitieren, damit meine Arbeiten auch für andere Menschen zugänglich sind.   
+Weitere gesetzliche Details findest du auf der Creative-Commons-Webseite: [creativecommons.org](creativecommons.org)  
+
 Die Eigenschaft von Geschenken ist, dass das Gegengeschenk nicht im Voraus festgelegt wird. Wenn du dieses Buch kostenlos erhalten hast oder verbreitest, begrüße ich ein freiwilliges Gegengeschenk, das die Dankbarkeit oder Wertschätzung zum Ausdruck bringt, die du vielleicht empfindest. Du kannst das auch über die folgende Webseite tun.
 Einen großen Teil meines Wissens in diesem Buch habe ich seinerzeit auch geschenkt bekommen und schenke es hiermit an dich weiter.
 
@@ -38,3 +39,6 @@ Hier gilt es ein paar Autoren zu erwähnen:
 *Joe Vitali* (Zero Limits)  
 
 Und zu guter Letzt bin ich jedem Menschen dankbar, der mich in den letzten Jahren begleitet und mir Dinge gespiegelt hat, um mich verändern zu können.
+
+##Fotos
+All diese hübschen Fotos habe ich von [pixabay.com](https://pixabay.com/).

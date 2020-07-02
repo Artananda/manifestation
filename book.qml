@@ -10,6 +10,10 @@ Ebook {
         name: "Einleitung"
     }
     Part {
+        src: "vorwort.md"
+        name: "Vorwort"
+    }
+    Part {
         src: "first.md"
         name: "First"
     }

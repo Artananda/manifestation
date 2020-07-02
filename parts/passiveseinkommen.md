@@ -11,7 +11,10 @@ Zu dieser Zeit haben wir beide noch von Harz4 leben müssen und fühlten uns abh
 Die anderen armen Menschen dort draußen müssen sogar jeden noch so üblen Job annehmen, da ihnen ansonsten Sanktionen in Höhe von bis zu 100% drohten. Na klar ist, bzw.. war das gegen die Menschenrechte, denn Zwangsarbeit ist nach wie vor verboten. Aber das interessiert doch die Mitarbeiter vom Jobcenter nicht. Wenn die die Harz4-Empfänger nicht gängeln, dann sind die ihren Job doch auch los.  
 
 Wir wollten also beide unsere Unabhängigkeit.  
-Nein, arbeiten wollte ich zu diesem Zeitpunkt auf gar keinen Fall. Ich hatte noch 4 Jahre zuvor nach meinem zweiten Burnout ein Nahtoderlebnis, bedingt durch den Umstand, das mich mein Job ausgebrannt hat. So etwas wollte ich auf jeden Fall vermeiden.  
+Nein, arbeiten wollte ich zu diesem Zeitpunkt auf gar keinen Fall. Ich hatte noch 4 Jahre zuvor nach meinem zweiten Burnout ein Nahtoderlebnis, bedingt durch den Umstand, das mich mein Job ausgebrannt hat. So etwas wollte ich auf jeden Fall vermeiden.
+
+Wir nutzen dafür ein Video, das ich auf Youtube gefunden hatte.
+[How To Manifest Anything! -Very Powerful Tool! (Law Of Attraction)](https://youtu.be/fKV8_5h3P_I)  
 
 Das passive Einkommen stellte sich natürlich nicht sofort ein. Wir hatten ja nicht einmal eine Idee, woher denn das Einkommen kommen könnte. Ja, ich bin Softwareentwickler und könnte Software schreiben und tausendfach Lizenzen verkaufen. Meine Freundin hatte die Idee, Kinderbücher zu schreiben. Ein Buch hatte ich bis dahin auch bereits geschrieben und hatte es mindestens 5 mal verkauft ;-)  
 Es heißt, [Die Kunst zu leben und zu lieben](https://kdp.amazon.com/amazon-dp-action/de/dualbookshelf.marketplacelink/B079QC1NCY)
@@ -76,5 +79,5 @@ Und wie du sehen kannst, schreibe ich bereits ein neues Buch. Und auch dieses Bu
 
 Wie du sehen kannst, habe ich es geschafft, ein passives Einkommen zu manifestieren. Es ging zwar nicht Simsalabim, aber immerhin, hab ich es jetzt geschafft. Und der Strom an Ideen für neue Bücher reißt ja nicht ab. Immerhin habe ich nun wirklich genug Zeit, um die großen Dinge zu manifestieren, denn nun bin ich nicht mehr von Existenzängsten abgelenkt und muss für irgendjemanden Arbeiten gehen, damit der reich wird.
  
-
+Am Ende dieses Buches findest du die deutsche Übersetzung der verwendeten Meditation.
 
