@@ -161,19 +161,19 @@ Content {
 	über aussergewöhnliche Kräfte.  
 &lt;/p&gt;
 &lt;p&gt;
-	Auch du verfügst über diese außergewöhnlichen Kräfte, du musst nur deine Programmierung loswerden und bist dann
-	in der Lage fantastische Dinge, genau wie Pippi, zu vollbringen.&lt;/br&gt;
-	Eine dieser Gaben nennt sich Manifestieren. Die Fähigkeit zu manifestieren erlaubt es uns Dinge und Situationen
-	in unser Leben zu rufen, analog zu dem Gesetz der Anziehung, aus dem Film &lt;strong&gt;The Secret&lt;/strong&gt;.&lt;/br&gt;&lt;/br&gt;
+	Du bist mit deinem Leben noch nicht so ganz zufrieden?&lt;/br&gt;
+	Du suchst immer noch nach dem EINEN Partner oder nach der EINEN Partnerin?&lt;/br&gt;
+	Du wohnst in einem Hochhaus mitten in der Stadt, dich zieht es aber ans Meer?&lt;/br&gt;&lt;/br&gt;
 
-	Wenn wir es wierdererlernt haben zu manifestieren, können wir die Welt so gestalten, wie wir es möchten.
-&lt;/p&gt;
-&lt;p&gt;
-	Der Autor hat selbst schon einige Dinge in sein Leben gerufen und zeigt in diesem Buch an Hand realer 
-	Manifestationen, wie einfach, bzw. auch wie schwierig es sein kann, Dinge zu manifestieren.&lt;/br&gt;&lt;/br&gt;
-	
-	Hier ein paar Methoden und Techniken, die in dem vorliegenden Buch erklärt werden: 
-	Willenskraft, Affirmationen, Psych-K, Regnose
+	Wenn du eine der obigen Fragen mit Ja beantworten kannst oder es dir ähnlich geht, 
+	dann solltest du mal einen Blick in das vorliegende Buch werfen.&lt;/br&gt;&lt;/br&gt;
+
+	Der Autor hat all die Situationen, in der er in seinem Buch schreibt selber erlebt.&lt;/br&gt; 
+	Er konnte für sich all diese tollen Dinge manifestieren und in dem vorliegenden Buch, 
+	zeigt er dir, wie auch du es schaffen kannst, dein Leben selber zu gestalten. &lt;/br&gt; &lt;/br&gt;
+
+	Das Buch zeigt Techniken von Willenskraft, über Ängste, Psych-K bis zum Schreiben einer Regnose, 
+	wie du spielend leicht Dinge und Situationen in dein Leben ziehen, wie du es manifestieren kannst.
 &lt;/p&gt;"
                     adminlabel: "Manifestation"
                 }
@@ -191,8 +191,7 @@ Content {
                 Text {
                     text: "&lt;!-- CALLOUT --&gt;
 &lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
-&lt;h3&gt;Das Buch ist bald auf &lt;strong&gt;Amazon&lt;/strong&gt; erhältlich.&lt;/h3&gt;
-&lt;!--a href=&quot;&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Zum Buch&lt;/a&gt;&lt;/h3--&gt;
+&lt;h3&gt;Das Buch ist ab sofort auf &lt;strong&gt;Amazon&lt;/strong&gt; erhältlich.&lt;a href=&quot;https://kdp.amazon.com/amazon-dp-action/de/dualbookshelf.marketplacelink/B08CB8Q54L&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Zum Buch&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;!-- /CALLOUT --&gt;"
                     adminlabel: "CALLOUT"
