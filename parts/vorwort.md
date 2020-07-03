@@ -13,7 +13,7 @@ Diese Erlebniswelt funktioniert seit jeher perfekt, und unbewusst sind wir Meist
 Es erfordert einen gewissen Mut, sich dieser Sache zu stellen, denn sie zu akzeptieren und wieder bewusst nutzen zu lernen, erfordert, dass man auch akzeptiert, dass man für alles Unschöne, das wir erlebt haben, selbst verantwortlich waren. Doch wer diesen einen Schritt gehen kann, dem eröffnet sich ein völlig neuer Weg in völlig anderen Dimensionen. 
 Bisher waren wir Meister darin, die Welt so zu gestalten, wie andere das wollten.   
 
-*Die Zeit ist gekommen, sie so zu gestalten wie wir selbst das wollen.*  
+**Die Zeit ist gekommen, sie so zu gestalten wie wir selbst das wollen.** 
 
 Dieses Buch liefert Anregungen und Anleitungen, wie genau man das macht. Ich wünsche jedem von Herzen den kleinen Piraten in sich, der ungehorsam lernt, zu ignorieren, was andere von ihm wollen. Vor uns liegt eine völlig neue Welt, die es zu entdecken gilt, auch wenn sie immer schon vor unseren Nasen lag. Angst braucht vor dieser Welt keiner zu haben. Angst gebührte der Welt, in die wir geboren wurden und so gut zu kennen glauben, dass es uns schwer fällt, sie infrage zu stellen. Doch tun wir genau das einmal, erleben wir ein blaues Wunder nach dem anderen. Anfangs sind nicht alle davon angenehm. Aber mit jedem einzelnen gewöhnen wir uns an etwas Neues, und ich kenne niemanden, der, einmal damit begonnen, je wieder zurück in die Alte Welt gewollt hätte.  
 Um den Zugang in die Neue Welt zu erleichtern, lies einfach weiter.

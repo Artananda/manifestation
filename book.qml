@@ -30,6 +30,10 @@ Ebook {
         name: "Regnose"
     }
     Part {
+        src: "angst.md"
+        name: "Angst"
+    }
+    Part {
         src: "meditation.md"
         name: "Meditation"
     }

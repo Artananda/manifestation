@@ -42,9 +42,7 @@ Und zu guter Letzt bin ich jedem Menschen dankbar, der mich in den letzten Jahre
 
 Vielen Dank auch an Bauchi, für das Vorwort und dafür, das du mir mit deinem Buch, die Regnose gezeigt hast.
 
-Vielen lieben Dank an EO für die tolle Kurzgeschichte, die am Ende des Buches zur Inspiration des Lesers zu finden ist.
-
-Vielen lieben Dank auch an Mona, das du die Meditation aufgesprochen hast. 
+Vielen lieben Dank an EO für die tolle Kurzgeschichte, die am Ende des Buches zur Inspiration des Lesers zu finden ist. 
 
 ##Fotos
 All diese hübschen Fotos habe ich von [pixabay.com](https://pixabay.com/).  
