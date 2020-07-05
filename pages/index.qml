@@ -92,9 +92,9 @@ Content {
 	data-endeasing=&quot;Power4.easeIn&quot;
 	data-captionhidden=&quot;off&quot;
 	style=&quot;z-index: 8&quot;&gt;
-	Trage dich einfach in den Newsletter ein&lt;/br&gt;
+	&lt;strong&gt;Trage dich einfach in den Newsletter ein&lt;/br&gt;
     und ich werde dich informieren, sobald du es kostenlos&lt;/br&gt;
-	runterladen kannst.  		&lt;/br&gt;					
+	runterladen kannst.&lt;/br&gt;&lt;/strong&gt;					
 	&lt;a href=&quot;http://eepurl.com/g8JnNf&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Eintragen&lt;/a&gt;	
 &lt;/div&gt;"
             }
