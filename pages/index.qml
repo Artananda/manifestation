@@ -42,7 +42,7 @@ Content {
 	data-easing=&quot;Elastic.easeInOut&quot;
 	data-endspeed=&quot;500&quot;
 	data-endeasing=&quot;Power1.easeIn&quot;
-	style=&quot;z-index: 3&quot;&gt;&lt;img src=&quot;assets/images/CoverSmall.png&quot; alt=&quot;&quot;&gt;
+	style=&quot;z-index: 3&quot;&gt;&lt;img src=&quot;assets/images/mockup_small.png&quot; alt=&quot;&quot;&gt;
 &lt;/div&gt;
 &lt;div class=&quot;tp-caption large_bold_grey skewfromrightshort customout&quot;		
 	data-x=&quot;80&quot;
@@ -54,7 +54,7 @@ Content {
 	data-endspeed=&quot;500&quot;
 	data-endeasing=&quot;Power4.easeIn&quot;
 	data-captionhidden=&quot;off&quot;
-	style=&quot;z-index: 4&quot;&gt;Willkommen
+	style=&quot;z-index: 4&quot;&gt;Erhalte mein neues Buch,
 &lt;/div&gt;
 &lt;div class=&quot;tp-caption large_bold_grey skewfromleftshort customout&quot;
 	data-x=&quot;80&quot;
@@ -66,25 +66,36 @@ Content {
 	data-endspeed=&quot;500&quot;
 	data-endeasing=&quot;Power4.easeIn&quot;
 	data-captionhidden=&quot;off&quot;
-	style=&quot;z-index: 7&quot;&gt;bei Manifestation
+	style=&quot;z-index: 7&quot;&gt;Manifestiere ein besseres Leben,
+&lt;/div&gt;
+&lt;div class=&quot;tp-caption large_bold_grey skewfromleftshort customout&quot;
+	data-x=&quot;80&quot;
+	data-y=&quot;178&quot;
+	data-customout=&quot;x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;&quot;
+	data-speed=&quot;300&quot;
+	data-start=&quot;1400&quot;
+	data-easing=&quot;Back.easeOut&quot;
+	data-endspeed=&quot;500&quot;
+	data-endeasing=&quot;Power4.easeIn&quot;
+	data-captionhidden=&quot;off&quot;
+	style=&quot;z-index: 7&quot;&gt;kostenlos.
 &lt;/div&gt;
 &lt;div class=&quot;tp-caption small_thin_grey customin customout&quot;
 	data-x=&quot;80&quot;
-	data-y=&quot;210&quot;
+	data-y=&quot;250&quot;
 	data-customin=&quot;x:0;y:100;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:3;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:0% 0%;&quot;
 	data-customout=&quot;x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;&quot;
 	data-speed=&quot;500&quot;
-	data-start=&quot;1300&quot;
+	data-start=&quot;1600&quot;
 	data-easing=&quot;Power4.easeOut&quot;
 	data-endspeed=&quot;500&quot;
 	data-endeasing=&quot;Power4.easeIn&quot;
 	data-captionhidden=&quot;off&quot;
-	style=&quot;z-index: 8&quot;&gt;			
-	Mein neues Buch über Manifestationen&lt;/br&gt;
-	wird bald verfügbar sein.&lt;/br&gt;
-	Trage dich in den Newsletter ein&lt;/br&gt;
-    und ich werde dich informieren, sobald es da ist.  							
-								
+	style=&quot;z-index: 8&quot;&gt;
+	Trage dich einfach in den Newsletter ein&lt;/br&gt;
+    und ich werde dich informieren, sobald du es kostenlos&lt;/br&gt;
+	runterladen kannst.  		&lt;/br&gt;					
+	&lt;a href=&quot;http://eepurl.com/g8JnNf&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Eintragen&lt;/a&gt;	
 &lt;/div&gt;"
             }
         }
@@ -102,13 +113,7 @@ Content {
 	&lt;strong&gt;Willkommen&lt;/strong&gt; bei Manifestiere ein besseres Leben
 	&lt;span class=&quot;subtitle&quot;&gt;ICH BIN SEHR FROH DAS DU DIESE SEITE GEFUNDEN HAST&lt;/span&gt;
 &lt;/h1&gt;
-&lt;p class=&quot;lead&quot;&gt;Hier bekommst du mein Buch über die Manifestation&lt;/p&gt;
-&lt;p&gt;
-	Vor ein paar Jahren habe ich angefangen, Bücher zu schreiben, um meinen Mitmenschen zu helfen, die spirituelle
-    Welt zu entdecken und zu gedeihen. &lt;/br&gt;&lt;/br&gt;
 
-	Dieses Buch ist eines davon.
-&lt;/p&gt;
 
 "
                     adminlabel: "Willkommen"
@@ -125,7 +130,7 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;h1 class=&quot;margin-top80&quot;&gt;Bücher&lt;/h1&gt;"
+                    text: "&lt;h1 class=&quot;margin-top80&quot;&gt;Mein neuestes Buch&lt;/h1&gt;"
                     adminlabel: "Bücher"
                 }
             }
@@ -217,7 +222,7 @@ Content {
 			&lt;div class=&quot;white-row&quot;&gt;
 				&lt;h3&gt;Möchtest du &lt;strong&gt;INFORMIERT&lt;/strong&gt; werden,&lt;/h3&gt;
 				&lt;p class=&quot;lead&quot;&gt;
-					wenn das Buch verfügbar wird oder wenn es Updates gibt?
+					wenn das Buch kostenlos verfügbar wird oder wenn es Updates gibt?
 				&lt;/p&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
