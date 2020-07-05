@@ -86,7 +86,7 @@ Content {
 	data-customin=&quot;x:0;y:100;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:3;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:0% 0%;&quot;
 	data-customout=&quot;x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;&quot;
 	data-speed=&quot;500&quot;
-	data-start=&quot;1600&quot;
+	data-start=&quot;1500&quot;
 	data-easing=&quot;Power4.easeOut&quot;
 	data-endspeed=&quot;500&quot;
 	data-endeasing=&quot;Power4.easeIn&quot;
