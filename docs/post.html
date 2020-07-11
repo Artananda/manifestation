@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>jQuery Get demo</title>
+  <script src="jquery_3.5.1.js"></script>
+</head>
+<body>
+ 
+<form id="userForm">
+  <input type="text" name="email" placeholder="Email Adresse eingeben">
+  <input type="submit" value="Eintragen">
+</form>
+<!-- the result of the search will be rendered inside this div -->
+<div id="result"></div>
+ 
+<script>
+// Attach a submit handler to the form
+$( "#userForm" ).submit(function( event ) {
+ 
+  // Stop form from submitting normally
+  event.preventDefault();
+ 
+  // Get some values from elements on the page:
+  var $form = $( this ),
+    mail = $form.find( "input[name='email']" ).val(),
+    url = "http://olafartananda.pythonanywhere.com/newsletter";
+ 
+
+  $.ajax({
+    type: "POST",
+    url: url,
+    crossDomain: true,
+    data: 'email="myemail"',
+    //data: '{"email": "myemail"}',
+    //dataType:"json",
+    success: function(response){
+        $( "#result" ).empty().append( response );
+    },
+    error: function(response, status, text) {
+      alert('post failed: ' + status + "," + text);
+    }
+  });
+  
+});
+</script>
+ 
+</body>
+</html>
