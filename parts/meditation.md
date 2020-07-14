@@ -6,7 +6,7 @@ Hier habe ich dir einmal eine Meditation auf Deutsch übersetzt, die mir persön
 Am besten wäre es, wenn du dir die Meditation herunterlädst und dir anhörst, während du bequem sitzt oder liegst.  
 Sende mit einfach eine Email an [olafartananda@protonmail.com](mailto:olafartananda@protonmail.com) mit der Bitte, dir die Manifestation zu diesem Buch zukommen zu lassen.  
 
-Auf dieser Meditation werde ich dich dazu führen, alles zu manifestieren, was du dir vorstellen kannst. Du solltest diese Sitzung machen, wenn du alleine in einem ruhigen Raum bist und bitte nicht beim fahren oder während du etwas anderes machst. Konzentriere dich nur auf meine Stimme. Zunächst möchte ich, dass du eine Absicht wählst. Was willst du erreichen. Was möchten Sie manifestieren? Wähle vorerst nur eine Sache aus.
+Auf dieser Meditation werde ich dich dazu führen, alles zu manifestieren, was du dir vorstellen kannst. Du solltest diese Sitzung machen, wenn du alleine in einem ruhigen Raum bist und bitte nicht beim fahren oder während du etwas anderes machst. Konzentriere dich nur auf meine Stimme. Zunächst möchte ich, dass du eine Absicht wählst. Was willst du erreichen. Was möchtest du manifestieren? Wähle vorerst nur eine Sache aus.
 
 Du kannst diesen Manifestationsprozess so oft durchführen, wie du möchtest, aber jedes Mal, wenn du dies tust, wähle nur eine Sache, auf die du dich konzentrieren möchtest. Was ist deine Absicht gerade jetzt? Hast du es. OK. Dann fangen wir an. Bitte mache es dir so bequem wie möglich. Und in den nächsten Augenblicken werden wir unseren Geist und Körper zentrieren und unsere Energie konzentrieren und unsere innersten Wünsche manifestieren. Tief durchatmen und anfangen dich zu entspannen. Lasse einfach deinen Körper entspannen.
 
@@ -18,7 +18,7 @@ Ein glühend, heller Strahl erfüllt deinen Geist mit positiver Energie. Kannst 
 
 Erinnere dich das irgendwelche Außengeräusche, während der Sitzung, dich nur daran erinnern, im Moment zu bleiben. Du bringst in diesem Moment dein volles Potenzial zur Geltung und wirst zu allem, was du kannst und willst. Deine Kraft kommt aus deinem Glauben. Wenn du es glaubst, erschaffst du es. Erkenne das jetzt in diesem Moment. Nicht in der Zukunft, sondern hier und jetzt. Was immer du möchtest, wird mit der positiven Energie, die du aussendest erschaffen und auf schnellste und liebevollste Weise zu dir gebracht.
 
-Die positive Energie, die du aussendest, wird auf die beste und liebevollste Weise zu dir zurückkehren. Für alles, was wir aussenden, schaffen wir in unserer Erfahrung. Verstehe und glaube, dass sich die Umstände und der Zustand der Menschen in der Welt um dich herum bereits geändert haben. In diesem Moment.
+Die positive Energie, die du aussendest, wird auf die beste und liebevollste Weise zu dir zurückkehren. Für alles, was wir aussenden, erschaffen wir eine Erfahrung. Verstehe und glaube, dass sich die Umstände und der Zustand der Menschen in der Welt um dich herum bereits geändert haben. In diesem Moment.
 
 Glaube, dass es jetzt passiert. Keine Notwendigkeit, nach Beweisen zu suchen. Wir wissen, dass dies bereits in der Gegenwart und in der Zukunft gleichzeitig geschehen ist. In diesem Moment kannst du dein volles Potenzial ausschöpfen. Positive Energie in die Welt in alle Räume und Zeiten senden und auf die bestmögliche Weise zurückbringen. Alles was du erschaffst, alles was du brauchst und alles was du in diesem Leben erleben willst.
 

@@ -8,8 +8,9 @@
 <body>
  
 <form id="userForm">
-  <input type="text" name="email" placeholder="Email Adresse eingeben">
-  <input type="submit" value="Eintragen">
+  <input type="text" name="email" placeholder="Email Adresse eingeben"/>
+  <input type="text" name="name" placeholder="Trage bitte deinen Namen hier ein"/>
+  <input type="submit" value="Eintragen"/>
 </form>
 <!-- the result of the search will be rendered inside this div -->
 <div id="result"></div>
@@ -23,7 +24,8 @@ $( "#userForm" ).submit(function( event ) {
  
   // Get some values from elements on the page:
   var $form = $( this ),
-    mail = $form.find( "input[name='email']" ).val(),
+    email = $form.find( "input[name='email']" ).val(),
+    name = $form.find( "input[name='name']" ).val()
     url = "http://olafartananda.pythonanywhere.com/newsletter";
  
 
@@ -31,9 +33,8 @@ $( "#userForm" ).submit(function( event ) {
     type: "POST",
     url: url,
     crossDomain: true,
-    data: 'email="myemail"',
-    //data: '{"email": "myemail"}',
-    //dataType:"json",
+    data: '{"email": "' + email + '", "name": "' + name + '", "list": "manifestation"}',
+    dataType:"json",
     success: function(response){
         $( "#result" ).empty().append( response );
     },
