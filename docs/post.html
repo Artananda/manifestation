@@ -33,7 +33,8 @@ $( "#userForm" ).submit(function( event ) {
     type: "POST",
     url: url,
     crossDomain: true,
-    data: '{"email": "' + email + '", "name": "' + name + '", "list": "manifestation"}',
+    //data: '{"email": "' + email + '", "name": "' + name + '", "list": "manifestation"}',
+    data : {"name": "Testuser3", "email": "testuser3@domain.com", "list": "manifestation"}
     dataType:"json",
     success: function(response){
         $( "#result" ).empty().append( response );
