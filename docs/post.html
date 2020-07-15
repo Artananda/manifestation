@@ -26,15 +26,16 @@ $( "#userForm" ).submit(function( event ) {
   var $form = $( this ),
     email = $form.find( "input[name='email']" ).val(),
     name = $form.find( "input[name='name']" ).val()
-    url = "http://olafartananda.pythonanywhere.com/newsletter";
+    url = "https://olafartananda.pythonanywhere.com/newsletter";
  
 
   $.ajax({
     type: "POST",
     url: url,
     crossDomain: true,
-    data: '{"email": "' + email + '", "name": "' + name + '", "list": "manifestation"}',
-    dataType:"json",
+    //data: '{"email": "' + email + '", "name": "' + name + '", "list": "manifestation"}',
+    data : '{"name": "Testuser3", "email": "testuser3@domain.com", "list": "manifestation"}',
+    dataType:"jsonp",
     success: function(response){
         $( "#result" ).empty().append( response );
     },
