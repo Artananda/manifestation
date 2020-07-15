@@ -6,6 +6,15 @@ Ebook {
     theme: "Epub3DE"
     creator: "Olaf Art Ananda"
     Part {
+        src: "cover.md"
+        name: "Cover"
+        pdfOnly: true
+    }
+    Part {
+        src: "toc.md"
+        name: "TOC"
+    }
+    Part {
         src: "preface.md"
         name: "Einleitung"
     }
