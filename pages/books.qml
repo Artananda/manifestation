@@ -63,6 +63,7 @@ Das Buch zeigt Techniken von Willenskraft, über Ängste, Psych-K bis zum Schrei
 wie du spielend leicht Dinge und Situationen in dein Leben ziehen, wie du es manifestieren kannst.
 &lt;/p&gt;
 "
+                    adminlabel: "Manifestiere"
                 }
             }
         }
@@ -106,13 +107,14 @@ Hier kannst Du mein Buch auch als &lt;a href=&quot;https://artananda.github.io/m
                 span: 8
 
                 Text {
-                    text: "&lt;h1&gt;&lt;strong&gt;Camp Eden&lt;/strong&gt; - Wie wir unser Paradies wiedererschafft haben.&lt;/h1&gt;
+                    text: "&lt;h1&gt;&lt;strong&gt;Camp Eden&lt;/strong&gt; - Wie wir unser Paradies wiedererschafft haben&lt;/h1&gt;
 &lt;p class=&quot;lead&quot;&gt;
 Lass Dich auf eine kurze Reise ins Paradies mitnehmen. Wir können das Paradies schon heute, hier auf Erden erfahren und müssen nicht warten bis wir tot sind, so wie es uns die Kirche weis machen will.&lt;br/&gt;
 Diese kurze Geschichte spielt im Jahre 2039, wir leben auf der Insel Isla Margarita in Venezuele und erzählen unseren Enkelkindern, was damals (also Heute) alles geschah, um den Planeten Erde zu retten. Angefangen über die Einführung von Volksabstimmungen und dem bedingunslosem Grundeinkommen bis hin zu der Abschaffung der Industrie und des Geldes ist alles vorhanden.&lt;br/&gt;
 Aber du kannst auch jetzt schon anfangen, dein eigenes Paradies zu schaffen, unabhängig von politischen Entscheidungen.&lt;br/&gt;
 Wir laden Dich ein, schon jetzt Deine schöpferische Energie zu nutzen.
 &lt;/p&gt;"
+                    adminlabel: "Camp Eden Deutsch"
                 }
             }
 
@@ -121,8 +123,8 @@ Wir laden Dich ein, schon jetzt Deine schöpferische Energie zu nutzen.
 
                 Image {
                     src: "coverebook.jpeg"
-                    animation: "fadeIn"
-                    animation_type: "Fading Entrances"
+                    animation: "slideInRight"
+                    animation_type: "Sliding Entrances"
                 }
             }
         }
@@ -166,6 +168,137 @@ Hier kannst Du mein Buch auch als &lt;a href=&quot;https://artananda.github.io/m
                 span: 4
 
                 Image {
+                    src: "CampEdenEN.png"
+                    animation: "slideInLeft"
+                    animation_type: "Sliding Entrances"
+                }
+            }
+
+            Column {
+                span: 8
+
+                Text {
+                    text: "&lt;h1&gt;&lt;strong&gt;Camp Eden&lt;/strong&gt; - How we have re-created our paradies&lt;/h1&gt;
+&lt;p class=&quot;lead&quot;&gt;
+Let yourself be taken on a short journey to paradise. We can already experience paradise today, here on earth, 
+and don&#x27;t have to wait until we&#x27;re dead, as the church wants us to believe. &lt;br/&gt;
+This short story takes place in the year 2039, we live in the mountains in the Algarve in Portugal and 
+tell our grandchildren what happened then (i.e. today) to save planet earth. From the introduction of 
+referendums and the unconditional basic income to the abolition of industry and money, everything is there. &lt;br/&gt;
+But you can start to create your own paradise now, regardless of political decisions. &lt;br/&gt;
+We invite you to use your creative energy now.
+&lt;/p&gt;"
+                    adminlabel: "Camp Eden Englisch"
+                }
+            }
+        }
+
+        Row {
+
+            Column {
+                span: 12
+
+                Text {
+                    text: "&lt;!-- CALLOUT --&gt;
+&lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
+&lt;h3&gt;The book is available on &lt;strong&gt;Amazon&lt;/strong&gt; now.
+&lt;a href=&quot;https://www.amazon.de/Camp-Eden-re-created-paradies-English-ebook/dp/B086C8MTP3/ref=sr_1_3?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;dchild=1&amp;keywords=olaf+art+ananda&amp;qid=1597596551&amp;sr=8-3&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;To the Book&lt;/a&gt;&lt;/h3&gt;
+&lt;/div&gt;
+&lt;!-- /CALLOUT --&gt;"
+                    adminlabel: "Callout"
+                }
+            }
+        }
+
+        Row {
+
+            Column {
+                span: 12
+
+                Text {
+                    text: "&lt;p&gt;
+Here you can download the book as &lt;a href=&quot;https://artananda.github.io/manifestation/CampEdenEN.pdf&quot;&gt;PDF&lt;/a&gt;.
+&lt;/p&gt;"
+                    adminlabel: "Download"
+                }
+            }
+        }
+    }
+
+    Section {
+
+        Row {
+
+            Column {
+                span: 8
+
+                Text {
+                    text: "&lt;h1&gt;&lt;strong&gt;Step Out&lt;/strong&gt; - A guideline how to step out of the system&lt;/h1&gt;
+&lt;p class=&quot;lead&quot;&gt;
+A guideline how you can step out of this system.&lt;/br&gt;
+This guideline is based on my own experience and will be enriched with true stories from people 
+I met on my way or people who wrote me believable stories.&lt;/br&gt;
+The book covers why we should step out at all, what we can do to live a fulfilling life in freedom without anxiety.&lt;/br&gt;
+The author also tries to show how a new society may look like on the sample of the Ubuntu movement from South Afrika.&lt;/br&gt;
+&lt;/br&gt;
+&quot;We are the ones we’ve been waiting for, and the time is now.&quot;&lt;/br&gt;
+~ Starr MacKinnon
+&lt;/p&gt;"
+                    adminlabel: "Step Out"
+                }
+            }
+
+            Column {
+                span: 4
+
+                Image {
+                    src: "StepOut.png"
+                    animation: "slideInRight"
+                    animation_type: "Sliding Entrances"
+                }
+            }
+        }
+
+        Row {
+
+            Column {
+                span: 12
+
+                Text {
+                    text: "&lt;!-- CALLOUT --&gt;
+&lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
+&lt;h3&gt;The book is available on &lt;strong&gt;Amazon&lt;/strong&gt; now.
+&lt;a href=&quot;https://www.amazon.de/Step-Out-guideline-fulfilling-abundance-ebook/dp/B086C8Z9MY/ref=sr_1_4?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;dchild=1&amp;keywords=olaf+art+ananda&amp;qid=1597596551&amp;sr=8-4&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;To the Book&lt;/a&gt;&lt;/h3&gt;
+&lt;/div&gt;
+&lt;!-- /CALLOUT --&gt;"
+                    adminlabel: "Callout"
+                }
+            }
+        }
+
+        Row {
+
+            Column {
+                span: 12
+
+                Text {
+                    text: "&lt;p&gt;
+Here you can download the book as &lt;a href=&quot;https://artananda.github.io/manifestation/StepOut.pdf&quot;&gt;PDF&lt;/a&gt;.
+&lt;/p&gt;"
+                    adminlabel: "Download"
+                }
+            }
+        }
+    }
+
+    Section {
+
+        Row {
+
+            Column {
+                span: 4
+
+                Image {
                     src: "/media/art/data/SourceCode/manifestation/assets/images/Cover.jpg"
                     animation: "slideInLeft"
                     animation_type: "Sliding Entrances"
@@ -191,6 +324,7 @@ Hier kannst Du mein Buch auch als &lt;a href=&quot;https://artananda.github.io/m
 	So ganz nebenbei erklärt Art, wie er das Energie-Problem des Planeten Erde gelöst hat.&lt;br/&gt;
 	Wir hoffen, das du etwas aus diesem Buch für dich persönlich mitnehmen kannst und wenn nicht, ist es ja auch nicht schlimm.
 &lt;/p&gt;"
+                    adminlabel: "Die Kunst zu Leben und zu Lieben"
                 }
             }
         }
@@ -235,12 +369,14 @@ Hier kannst Du mein Buch auch als &lt;a href=&quot;https://artananda.github.io/m
 
                 Text {
                     text: "&lt;h1&gt;Dankbarkeit&lt;/h1&gt;
+
 &lt;p class=&quot;lead&quot;&gt;
 Für den Fall, das du eines dieser Bücher kostenlos erhalten hast und deine Dankbarkeit ausdrücken möchtest, kannst du dies tun,
 in dem du dieses Buch an deine Freunde, Bekannte und Kollegen weiter empfiehlt, du kannst dich mit einer Spende 
 via &lt;a href=&quot;https://www.patreon.com/artananda&quot;&gt;Patreon&lt;/a&gt; erkenntlich zeigen und du kannst &lt;a href=&quot;mailto:artanidos@gmail.com&quot;&gt;Art&lt;/a&gt; auch direkt schreiben und dich bedanken und eventuell deine persönliche Hilfe anbieten.&lt;br/&gt; 
 Du hast natürlich auch noch die Möglichkeit das Buch käuflich zu erwerben.
 &lt;/p&gt;"
+                    adminlabel: "Dankbarkeit"
                 }
             }
         }
