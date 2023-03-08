@@ -3,8 +3,9 @@ import EbookCreator 1.0
 Ebook {
     name: "Manifestation"
     language: "de"
+    size: ""
     theme: "Epub3DE"
-    creator: "Olaf Art Ananda"
+    creator: "Adam Art Ananda"
     Part {
         src: "cover.md"
         name: "Cover"
@@ -45,6 +46,10 @@ Ebook {
     Part {
         src: "meditation.md"
         name: "Meditation"
+    }
+    Part {
+        src: "affirmation.md"
+        name: "Affirmation"
     }
     Part {
         src: "inspiration.md"

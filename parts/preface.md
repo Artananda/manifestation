@@ -1,49 +1,50 @@
-#Manifestiere ein besseres Leben
-**Ich mach mir die Welt, widde widde wie sie mir gefÃ¤llt**  
-von Olaf Art Ananda  
 
-##Anmerkung des Verfassers
-"Zwei mal Drei macht Vier, widde widde witt und drei macht Neune, ich mach mir die Welt, widde widde wie sie mir gefÃ¤llt."  
-Die ist ein Zitat der deutschen Fassung von Pippi Langstrumpf, das ursprÃ¼nglich von Astrid Lindgren verfasst wurde.
 
-Ich biete dir dieses Buch im Geist des Geschenks an. Dieses Buch unterliegt der Creative-Commons-Lizenz, die es dir erlaubt, es fÃ¼r alle nicht kommerziellen Zwecke frei zu verwenden. Das heiÃŸt, dass du AuszÃ¼ge aus dem Buch kopieren und in Blogs etc. verwenden darfst, solange du davon nichts verkaufst oder als WerbetrÃ¤ger verwendest. Ich ersuche dich hiermit auch die Quelle zu zitieren, damit meine Arbeiten auch fÃ¼r andere Menschen zugÃ¤nglich sind.   
-Weitere gesetzliche Details findest du auf der Creative-Commons-Webseite: [creativecommons.org](creativecommons.org)  
+#Manifestiere ein besseres Leben  
+Ich mach mir die Welt, widde widde wie sie mir gefällt
+von Adam Art Ananda
 
-Die Eigenschaft von Geschenken ist, dass das Gegengeschenk nicht im Voraus festgelegt wird. Wenn du dieses Buch kostenlos erhalten hast oder verbreitest, begrÃ¼ÃŸe ich ein freiwilliges Gegengeschenk, das die Dankbarkeit oder WertschÃ¤tzung zum Ausdruck bringt, die du vielleicht empfindest. Du kannst das auch Ã¼ber die folgende Webseite tun.
-Einen groÃŸen Teil meines Wissens in diesem Buch habe ich seinerzeit auch geschenkt bekommen und schenke es hiermit an dich weiter.
+##Anmerkung des Verfassers  
+"Zwei mal Drei macht Vier, widde widde witt und drei macht Neune, ich mach mir die Welt, widde widde wie sie mir gefällt."
+Die ist ein Zitat der deutschen Fassung von Pippi Langstrumpf, das ursprünglich von Astrid Lindgren verfasst wurde.
 
-Web: 		[artananda.github.io/manifestation](artananda.github.io/manifestation)  
-Facebook: 	[facebook.com/artanidos](facebook.com/artanidos)
+Ich biete dir dieses Buch im Geist des Geschenks an. Dieses Buch unterliegt der Creative-Commons-Lizenz, die es dir erlaubt, es für alle nicht kommerziellen Zwecke frei zu verwenden. Das heißt, dass du Auszüge aus dem Buch kopieren und in Blogs etc. verwenden darfst, solange du davon nichts verkaufst oder als Werbeträger verwendest. Ich ersuche dich hiermit auch die Quelle zu zitieren, damit meine Arbeiten auch für andere Menschen zugänglich sind.
+Weitere gesetzliche Details findest du auf der Creative-Commons-Webseite: creativecommons.org
 
-##Motivation
-Seit meinem Ausstieg aus dem Arbeitsalltag 2014 habe ich eine grandiose Wandlung durchgemacht und herausgefunden, wie das Leben funktioniert. Zumindest nehme ich an, es zu wissen. Dieses Wissen mÃ¶chte ich gerne mit allen Menschen, die dafÃ¼r offen sind teilen, weil ich es alleine im Paradies viel zu langweilig finde ;-)
+Die Eigenschaft von Geschenken ist, dass das Gegengeschenk nicht im Voraus festgelegt wird. Wenn du dieses Buch kostenlos erhalten hast oder verbreitest, begrüße ich ein freiwilliges Gegengeschenk, das die Dankbarkeit oder Wertschätzung zum Ausdruck bringt, die du vielleicht empfindest. Du kannst das auch über die folgende Webseite tun. Einen großen Teil meines Wissens in diesem Buch habe ich seinerzeit auch geschenkt bekommen und schenke es hiermit an dich weiter.
 
-##FÃ¼r Wen Ist Dieses Buch
-FÃ¼r jeden Menschen, der bereits erwacht ist und sein Leben selber in die Hand nehmen mÃ¶chte.
+Web: artananda.github.io/manifestation
+Facebook: facebook.com/artanidos
 
-##FÃ¼r Wen Ist Dieses Buch Nicht
-FÃ¼r Menschen, die noch an den Weihnachtsmann, den Osterhasen oder an die Politiker glauben.
+##Motivation 
+Seit meinem Ausstieg aus dem Arbeitsalltag 2014 habe ich eine grandiose Wandlung durchgemacht und herausgefunden, wie das Leben funktioniert. Zumindest nehme ich an, es zu wissen. Dieses Wissen möchte ich gerne mit allen Menschen, die dafür offen sind teilen, weil ich es alleine im Paradies viel zu langweilig finde ;-)
 
-##Wie Du Mich Kontaktieren Kannst
-Solltest du eine Frage oder ein Kommentar zu diesem Buch haben, scheue dich nicht, mir eine Email zu schreiben. Sende deine Fragen und Kommentare einfach an: [olafartananda@protonmail.com](mailto:olafartananda@protonmail.com)
+##Für Wen Ist Dieses Buch 
+Für jeden Menschen, der bereits erwacht ist und sein Leben selber in die Hand nehmen möchte.
 
-##Danksagungen
-Zu aller erst bin ich meinem KÃ¶rper dankbar, weil er mich zur richtigen Zeit auf die richtigen Wege gefÃ¼hrt hat. Ich weiÃŸ, das klingt bestimmt ein bisschen verrÃ¼ckt, aber da ich Maschinenschlosser gelernt habe und bereits nach wenigen Jahren, RÃ¼ckenscherzen bekam und Ã¼ber ein halbes Jahr krank war, habe ich angefangen Maschinenbau zu studieren und wÃ¤hrend des Studiums habe ich dann mit dem Programmieren angefangen. Zu der Zeit habe ich mich entschieden, mein Studium abzubrechen und als Softwareentwickler zu arbeiten.  
-Dann hat mir mein KÃ¶rper vor 7 Jahren mit gleich zwei Burnouts zu verstehen gegeben, mich aus dem Arbeitsleben zurÃ¼ckzuziehen.  
-Nun habe ich viel Zeit, um Open Source Software zu schreiben und neue Dinge auszuprobieren, wie zum Beispiel BÃ¼cher wie dieses hier zu schreiben.
+##Für Wen Ist Dieses Buch Nicht 
+Für Menschen, die noch an den Weihnachtsmann, den Osterhasen oder an die Politiker glauben.
 
-Und auÃŸerdem bin ich allen Autoren da drauÃŸen dankbar, weil sie so tolle BÃ¼cher Ã¼ber **The Law of Attraction** und **The Secret** geschrieben haben.  
-Hier gilt es ein paar Autoren zu erwÃ¤hnen:  
-*Joseph Murphy* (Die Macht des Unterbewusstseins)  
-*Neal Donald Walsh* (GesprÃ¤che mit Gott, Die kleine Seele spricht mit Gott)  
-*Joe Vitali* (Zero Limits)  
+##Wie Du Mich Kontaktieren Kannst 
+Solltest du eine Frage oder ein Kommentar zu diesem Buch haben, scheue dich nicht, mir eine Email zu schreiben. Sende deine Fragen und Kommentare einfach an: olafartananda@protonmail.com
 
-Und zu guter Letzt bin ich jedem Menschen dankbar, der mich in den letzten Jahren begleitet und mir Dinge gespiegelt hat, um mich verÃ¤ndern zu kÃ¶nnen.
+##Danksagungen 
+Zu aller erst bin ich meinem Körper dankbar, weil er mich zur richtigen Zeit auf die richtigen Wege geführt hat. Ich weiß, das klingt bestimmt ein bisschen verrückt, aber da ich Maschinenschlosser gelernt habe und bereits nach wenigen Jahren, Rückenscherzen bekam und über ein halbes Jahr krank war, habe ich angefangen Maschinenbau zu studieren und während des Studiums habe ich dann mit dem Programmieren angefangen. Zu der Zeit habe ich mich entschieden, mein Studium abzubrechen und als Softwareentwickler zu arbeiten.
+Dann hat mir mein Körper vor 7 Jahren mit gleich zwei Burnouts zu verstehen gegeben, mich aus dem Arbeitsleben zurückzuziehen.
+Nun habe ich viel Zeit, um Open Source Software zu schreiben und neue Dinge auszuprobieren, wie zum Beispiel Bücher wie dieses hier zu schreiben.
 
-Vielen Dank auch an Bauchi, fÃ¼r das Vorwort und dafÃ¼r, das du mir mit deinem Buch, die Regnose gezeigt hast.
+Und außerdem bin ich allen Autoren da draußen dankbar, weil sie so tolle Bücher über The Law of Attraction und The Secret geschrieben haben.
+Hier gilt es ein paar Autoren zu erwähnen:
+Joseph Murphy (Die Macht des Unterbewusstseins)
+Neal Donald Walsh (Gespräche mit Gott, Die kleine Seele spricht mit Gott)
+Joe Vitali (Zero Limits)
 
-Vielen lieben Dank an EO fÃ¼r die tolle Kurzgeschichte, die am Ende des Buches zur Inspiration des Lesers zu finden ist. 
+Und zu guter Letzt bin ich jedem Menschen dankbar, der mich in den letzten Jahren begleitet und mir Dinge gespiegelt hat, um mich verändern zu können.
 
-##Fotos
-All diese hÃ¼bschen Fotos habe ich von [pixabay.com](https://pixabay.com/).  
+Vielen Dank auch an Bauchi, für das Vorwort und dafür, das du mir mit deinem Buch, die Regnose gezeigt hast.
+
+Vielen lieben Dank an EO für die tolle Kurzgeschichte, die am Ende des Buches zur Inspiration des Lesers zu finden ist.
+
+##Fotos 
+All diese hübschen Fotos habe ich von pixabay.com.
 Die kann man dort kostenlos herunterladen.
