@@ -74,7 +74,7 @@ Genau das tue ich gerade. Ich habe nun seit meinem Burnout und der Zeit als Obda
 Klar sagt mir mein Ego grad, das ich doch auch ein großes Haus am Meer haben könnte, einen dickes Auto und ne tolle Frau an meiner Seite, aber das ist doch eher das Weltbild, das uns Filme, Werbung und die Gesellschaft als ideal verkaufen möchte.  
 Das ist nicht mein Seelenwunsch.  
 Es ist nicht einfach, seinen Seelenwunsch heraus zu finden. 
-Wenn unsere Seele aber etwas will, dann spüren wir dies an Hand von kleinen Ekstasen (leichtes Kribbel oder Gändehaut), wenn wir daran denken.  
+Wenn unsere Seele aber etwas will, dann spüren wir dies an Hand von kleinen Ekstasen (leichtes Kribbel oder Gänsehaut), wenn wir daran denken.  
 
 Ich weiß zum Beispiel, dass ich der Menschheit gerne aus der Sklaverei befreien möchte, was natürlich nicht leicht ist, weil es kaum jemand erkennt, das er durch die Werbung und das System dazu versklavt ist, sein Leben lang zu arbeiten.  
 
